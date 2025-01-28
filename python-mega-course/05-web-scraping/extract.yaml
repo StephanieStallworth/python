@@ -1,0 +1,3 @@
+tours:
+  css: '#displaytimer' # To find ID, right click element on webpage >  Copy > Copy Selector, then paste here
+
