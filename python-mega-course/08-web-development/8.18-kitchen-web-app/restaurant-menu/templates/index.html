@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% block content%}
+<div class="container">
+<h1>Restaurant Menu</h1>
+    <ul class="list-group list-group-flush">
+       {% for meal in meals %}
+            <h2 class="pt-5">{{ meal.1 }}</h2>  <!-- meals key from "context" variable assigned in views.py -->
+                {% for row in item_list %} <!-- "classname_list" is a special variable that gives you list of database records -->
+                    {% if row.meal_type == meal.0 %} <!-- checking if meal is the current category being iterated on, display if so  -->
+                        {% if row.status == 0 %} <!-- strikethrough if meal is unavailable  -->
+                            <li class="list-group-item d-flex justify-content-between align-items-center border-0 pb-0">
+                                <!-- use "<a>" tag to turn it into a link and provide URL of where to direct users to  -->
+                                <!-- when user clicks link will be taken to URL with that name from app's urls.py file  -->
+                                <a href="{% url 'menu_item' row.pk %}"><h3><del>{{ row.meal }}</del></h3></a>   <!-- menu_item from views.py that returns menu_item_detail.html document, update this with Jinja syntax also  -->
+                                <span class="badge bg-primary rounded-pill">{{ row.price }}</span>
+                            </li>
+                            <l1 class="list-group-item pt-0">
+                                <p>{{ row.description }}</p>
+                            </l1>
+                        {% else %}
+                            <li class="list-group-item d-flex justify-content-between align-items-center border-0 pb-0">
+                                <a href="{% url 'menu_item' row.pk %}"><h3>{{ row.meal }}</h3></a>
+                                <span class="badge bg-primary rounded-pill">{{ row.price }}</span>
+                            </li>
+                            <l1 class="list-group-item pt-0">
+                                <p>{{ row.description }}</p>
+                            </l1>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+        {% endfor %}
+    </ul>
+</div>
+{% endblock content %}
