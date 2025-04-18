@@ -910,7 +910,7 @@ Advanced Recommender Systems with Python - Bonus
 ### Section 27: Bonus Section Thank You! 
 165. Bonus Lecture
 
-## Machine Learning A-Z: AI, Python & R
+## [Machine Learning A-Z: AI, Python & R (Udemy)](https://www.udemy.com/course/machinelearning/)
 ### Section 1: Welcome to the Course! 
 1. Welcome Challenge!   
 2. Machine Learning Demo -  Get Excited!   
@@ -932,9 +932,9 @@ Advanced Recommender Systems with Python - Bonus
 14. Importing The Dataset - Step 1: `pandas.read_csv()`  
 15. Importing The Dataset - Step 2: Independent Variables Matrix 
 16. Importing The Dataset - Step 3: Dependent Variable Array 
-17. For Python Learners, Summary Of OOP: Classes & Objects (Coding Exercise 1: Importing And Preprocessing A Dataset For ML)  
+17. Python Learners, Summary Of OOP: Classes & Objects (Coding Exercise 1: Importing And Preprocessing A Dataset For ML)  
 18. Taking Care Of Missing Data - Step 1: `SimpleImputer()` Object 
-19. Taking Care Of Missing Data - Step 2: `fit()` `transform()` (Coding Exercise 2: Coding Exercise 2: Handling Missing Data in Dataset For ML) 
+19. Taking Care Of Missing Data - Step 2: `fit()` `transform()` (Coding Exercise 2: Handling Missing Data in Dataset For ML) 
 20. Encoding Categorical Data - Step 1: `sklearn.compose.ColumnTransformer()`  `sklearn.preprocessing.OneHotEncoder()`  
 21. Encoding Categorical Data - Step 2: `fit_transform()` 
 22. Encoding Categorical Data - Step 3: `LabelEncoder()` Object 
@@ -1010,8 +1010,8 @@ Advanced Recommender Systems with Python - Bonus
 82. Polynomial Regression Intuition 
 83. Polynomial Regression Python - Step 1A: Get the Dataset  
 84. Polynomial Regression Python - Step 1B: Read the Dataset `pandas.read_csv()` 
-85. Polynomial Regression Python - Step 2A: Train Regression Model `LinearRegression()` `fit`  
-86. Polynomial Regression Python - Step 2B: Train Regression Model `PolynomialFeatures()`  `fit_transform()` `LinearRegression()` `fit()` 
+85. Polynomial Regression Python - Step 2A: Train `LinearRegression()` `fit`  
+86. Polynomial Regression Python - Step 2B: Train `PolynomialFeatures()`  `fit_transform()` `LinearRegression()` `fit()` 
 87. Polynomial Regression Python - Step 3A: Basic Visualization 
 88. Polynomial Regression Python - Step 3B: Advanced Visualization 
 89. Polynomial Regression Python - Step 4A: Linear Regression Prediction  
@@ -1026,7 +1026,7 @@ Advanced Recommender Systems with Python - Bonus
 98. Polynomial Regression R - Step 4A: Predicting a New Result with Linear Regression `predict()` 
 99. Polynomial Regression R - Step 4B: Predicting a New Result with Polynomial Regression `predict()` 
 100. R Regression Template - Step 1: Data Preprocessing `read.csv()`  `sample.split()`  `scale()`  
-101. R Regression Template -  Step 2: Fitting Regression Model to Dataset, Prediction and Visualization  (Quiz 4: Polynomial Regression Quiz)  
+101. R Regression Template -  Step 2: Fitting Regression, Prediction and Visualization  (Quiz 4: Polynomial Regression Quiz)  
 
 ### Section 9: Support Vector Regression (SVR) 
 102. SVR Intuition (Updated!)  
@@ -1072,8 +1072,8 @@ Advanced Recommender Systems with Python - Bonus
 135. Preparation Of The Regression Code Templates - Step 2  
 136. Preparation Of The Regression Code Templates - Step 3 
 137. Preparation Of The Regression Code Templates - Step 4 
-138. The Ultimate Demo Of Powerful Regression Code Templates In Action! - Step 1: Multiple Linear Regression 
-139. The Ultimate Demo Of Powerful Regression Code Templates In Action! - Step 2: Polynomial Regression, SVR, DT Regression, RF Regression 
+138. Demo Regression Code Templates! - Step 1: Multiple Linear Regression 
+139. Demo Regression Code Templates! - Step 2: Polynomial Regression, SVR, DT Regression, RF Regression 
 140. Conclusion Of Part 2 - Regression  
 
 ### Section 14: Regression Model Selection R
@@ -1098,7 +1098,7 @@ Advanced Recommender Systems with Python - Bonus
 155. Logistic Regression Python - Step 4B: Predicting Test Set Results: `predict()` 
 156. Logistic Regression Python - Step 5: Comparing Predictions vs Actuals `predict()` 
 157. Logistic Regression Python - Step 6A: Confusion Matrix & Accuracy Score Overview 
-158. Logistic Regression Python - Step 6B: Constructing the Confusion Matrix `confusion_matrix()` and Accuracy Score `accuracy_score()` 
+158. Logistic Regression Python - Step 6B: Confusion Matrix `confusion_matrix()` and Accuracy Score `accuracy_score()` 
 159. Logistic Regression Python - Step 7A: Visualizing Training Set Results  
 160. Logistic Regression Python - Step 7B: Visualizing Training Set Results (continued...) 
 161. Logistic Regression Python - Step 7C: Visualizing Test Set Results 
@@ -1119,7 +1119,7 @@ Advanced Recommender Systems with Python - Bonus
 ### Section 17: K-Nearest Neighbors (KNN)
 175. K-Nearest Neighbor Intuition  
 176. K-NN Python - Step 1: Intro [API Reference |scikit-learn.org](https://scikit-learn.org/stable/api/index.html) and [sklearn.neighbors.NearestNeighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html#sklearn.neighbors.NearestNeighbors)
-177. K-NN Python - Step 2: Data Pre-Processing `train_test_split()` `StandardScaler()` `fit_transform()` `KNeighborsClassifier()` `fit()` 
+177. K-NN Python - Step 2: Data Pre-Processing `train_test_split()` `StandardScaler()` `KNeighborsClassifier()` `fit()` 
 178. K-NN Python - Step 3: Predictions `predict()` and Visualizing the Results with `matplotlib` 
 179. K-NN R - Step 1: Data Pre-Processing `factor()` `sample.split()` `scale()`    
 180. K-NN R - Step 2: Model Training `knn()` and Evaluation with Confusion Matrix `table()`
@@ -1127,7 +1127,7 @@ Advanced Recommender Systems with Python - Bonus
 
 ### Section 18: Support Vector Machine (SVM)
 182. SVM Intuition  
-183. SVM Python - Step 1: Data Preprocessing `train_test_split() ` `StandardScaler()` `fit_transform()` `SVC()` `fit()`  `predict()` 
+183. SVM Python - Step 1: Preprocessing `train_test_split() ` `StandardScaler()` `fit_transform()` `SVC()` `fit()`  `predict()` 
 185. SVM Python - Step 3: Visualization Training & Test Set Results with `matplotlib` 
 186. SVM R - Step 1: Data Preprocessing `factor()` `sample.split()` `scale()` 
 187. SVM R - Step 2: Model Training with  `svm()` from `e1071` package & Visualization with `ElemStatLearn` (Quiz 11: SVM Quiz) 
@@ -1150,35 +1150,35 @@ Advanced Recommender Systems with Python - Bonus
 200. Naïve Bayes Intuition (Challenge Reveal)  
 201. Naïve Bayes Intuition (Extras)  
 202. Naïve Bayes Python -  Step 1: Data Pre-Processing `train_test_split()` `StandardScaler()`  `fit_transform()` `transform()`  
-203. Naïve Bayes Python - Step 2: Training the Naïve Bayes Model `GaussianNB()` `fit()` `predict()` `confusion_matrix()`  `accuracy_score()` 
+203. Naïve Bayes Python - Step 2: Training  `GaussianNB()` `fit()` `predict()` `confusion_matrix()`  `accuracy_score()` 
 204. Naïve Bayes Python - Step 3: Visualization with `matplotlib` 
 205. Naïve Bayes R - Step 1: Data Pre-Processing `factor()` `sample.split()` `scale()` 
-206. Naïve Bayes R - Step 2: Model Training with `naiveBayes()` from `e1071` library, Prediction `predict()`, Confusion Matrix `table()` 
+206. Naïve Bayes R - Step 2: Training `naiveBayes()` `e1071` `predict()`, Confusion Matrix `table()` 
 207. Naïve Bayes R - Step 3: Visualization and Training and Test Set Results with `ElemStatLearn` library (Quiz 13: Naïve Bayes Quiz) 
 
 ### Section 21: Decision Tree Classification
-208. Decision Tree Classification Intuition 
-209. Decision Tree Classification Python - Step 1: Data Pre-Processing: `train_test_split()` `StandardScaler()` `fit_transform()` `transform()`   
-210. Decision Tree Classification Python -  Step 2: `DecisionTreeClassifier()` `fit()` `predict()` `confusion_matrix()` `accuracy_score()` 
-211. Decision Tree Classification R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()` and Fitting DT Classifier `rpart()`  
-212. Decision Tree Classification R - Step 2: Prediction `predict()`, Confusion Matrix `table()`, Visualization  with `ElemStatLearn` Library 
-213. Decision Tree Classification R - Step 3: Plot the Decision Tree `plot()`  `text()` (Quiz 14: Decision Tree Classification Quiz)  
+208. DT Classification Intuition 
+209. DT Classification Python - Step 1: Data Pre-Processing: `train_test_split()` `StandardScaler()` `fit_transform()`   
+210. DT Classification Python -  Step 2: `DecisionTreeClassifier()` `fit()` `predict()` `confusion_matrix()` `accuracy_score()` 
+211. DT Classification R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()` and Fitting DT Classifier `rpart()`  
+212. DT Classification R - Step 2: Prediction `predict()`, Confusion Matrix `table()`, Visualization  with `ElemStatLearn` Library 
+213. DT Classification R - Step 3: Plot the Decision Tree `plot()`  `text()` (Quiz 14: Decision Tree Classification Quiz)  
 
 ### Section 22: Random Forest Classification
-214. Random Forest Classification Intuition  
-215. Random Forest Classification Python - Step 1: Data Pre-Processing `train_test_split()`  `StandardScaler()`  `fit_transform()`  `transform()`  
-216. Random Forest Classification Python - Step 2: `RandomForestClassifier()`  `fit()` `predict()`  `confusion_matrix()`  `accuracy_score()`
-217. Random Forest Classification R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()`  
-218. Random Forest Classification R - Step 2: Model Training `randomForest()`, Prediction `predict()`, Evaluation with Confusion Matrix `table()`
-219. Random Forest Classification R - Step 3: Visualization with `ElemStatLearn` Library (Quiz 15: Random Forest Classification Quiz)
+214. RF Classification Intuition  
+215. RF Classification Python - Step 1: Pre-Processing `train_test_split()`  `StandardScaler()`  `fit_transform()`  `transform()`  
+216. RF Classification Python - Step 2: `RandomForestClassifier()`  `fit()` `predict()`  `confusion_matrix()`  `accuracy_score()`
+217. RF Classification R - Step 1: Pre-Processing `factor()`  `sample.split()`  `scale()`  
+218. RF Classification R - Step 2: Model Training `randomForest()`, Prediction `predict()` Confusion Matrix `table()`
+219. RF Classification R - Step 3: Visualization `ElemStatLearn` (Quiz 15: Random Forest Classification Quiz)
 
 ### Section 23: Classification Model Selection Python
 220. Make Sure You Have This Model Selection Folder Ready 
 221. Confusion Matrix & Accuracy Ratios  
-222. Demo Of The Classification Code Templates In Action - Step 1: Get the Dataset  
-223. Demo Of The Classification Code Templates In Action - Step 2: Templates Logistic Regression, KNN, SVM, Kernel SVM, Naïve Bayes, DT, RF
-224. Demo Of The Classification Code Templates In Action - Step 3: Google Colab 
-225. Demo Of The Classification Code Templates In Action - Step 4: Decision Tree Slightley Beats Kernel SVM
+222. Demo Classification Code Templates - Step 1: Get the Dataset  
+223. Demo Classification Code Templates - Step 2: Templates Logistic Regression, KNN, SVM, Kernel SVM, Naïve Bayes, DT, RF
+224. Demo lassification Code Templates - Step 3: Google Colab 
+225. Demo Classification Code Templates - Step 4: Decision Tree Slightley Beats Kernel SVM
 
 ### Section 24: Evaluating Classification Models Performance
 226. Type I and Type II Errors  
@@ -1207,12 +1207,12 @@ Advanced Recommender Systems with Python - Bonus
 245. K-Means Clustering Python - Step 5B: Visualizing the Clusters with `matplotlib` (continued...) 
 246. K-Means Clustering Python - Step 5C: Cluster Analysis 
 247. K-Means Clustering R - Step 1: Importing the Dataset & Use Elbow Method to Find the Optimal Number of Clusters  
-248. K-Means Clustering R - Step 2: Fitting K-Means to Data Set, Visualizing Clusters, Cluster Analysis (Quiz 17: K-Means Clustering Quiz) 
+248. K-Means Clustering R - Step 2: Fitting K-Means, Visualizing Clusters, Cluster Analysis (Quiz 17: K-Means Clustering Quiz) 
 
 ### Section 27: Hierarchical Clustering
 249. Hierarchical Clustering Intuition    
 250. Hierarchical Clustering How Dendrograms Work  
-251. Hierarchical Clustering Python - Step 2A: Dendrogram Optimal Clusters `scipy.cluster.hierarchy` `scipy.cluster.hierarchy.linkage()`  
+251. Hierarchical Clustering Python - Step 2A: Dendrogram `scipy.cluster.hierarchy` `scipy.cluster.hierarchy.linkage()`  
 252. Hierarchical Clustering Python - Step 2B: Using the Dendrogram to Find the Optimal Number of Clusters   
 253. Hierarchical Clustering Python - Step 2C: Using the Dendrogram to Find the Optimal Number of Clusters (continued...)  
 254. Hierarchical Clustering Python - Step 3A: Training HC model `sklearn.cluster.AgglomerativeClustering()` `fit_predict()`    
@@ -1236,7 +1236,7 @@ Advanced Recommender Systems with Python - Bonus
 272. Apriori R - Step 3: Visualizing the Results (Quiz 19: Apriori Quiz)  
 273. Eclat Intuition 
 274. Eclat Python: Data Pre-Processing, Training the Eclat Model `apyori.apriori()`, Visualizing the Results  
-275. Eclat R: Data Pre-Processing `itemFrequencyPlot()` and Training the Eclat `eclat()` and Visualization `inspect()` (Quiz 20: Eclat Quiz)  
+275. Eclat R: Data Pre-Processing `itemFrequencyPlot()`, Training `eclat()`, Visualization `inspect()` (Quiz 20: Eclat Quiz)  
 
 ### Section 31: Part 6 - Reinforcement Learning 
 276. Welcome To Part 6 - Reinforcement Learning 
@@ -1248,11 +1248,11 @@ Advanced Recommender Systems with Python - Bonus
 280. Upper Confidence Bound Python - Step 2: Data Pre-Processing 
 281. Upper Confidence Bound Python - Step 3: Implementing UCB 
 282. Upper Confidence Bound Python - Step 4: Implementing UCB (continued...)  
-283. Upper Confidence Bound Python - Step 5: Select the Advertisement with the Maximum UCB ("Huge Value Trick")  
+283. Upper Confidence Bound Python - Step 5: Select Advertisement with Maximum UCB ("Huge Value Trick")  
 285. Upper Confidence Bound Python - Step 7: Visualizing the Results with `matplotlib` 
 286. Upper Confidence Bound R - Step 1: Overview  
 287. Upper Confidence Bound R - Step 2: Implementing UCB   
-288. Upper Confidence Bound R - Step 3: Choosing the Advertisement with the Maximum UCB "Huge Value Trick" (Quiz 21: UCB Quiz) 
+288. Upper Confidence Bound R - Step 3: Choosing Advertisement with Maximum UCB "Huge Value Trick" (Quiz 21: UCB Quiz) 
 
 ### Section 33: Thompson Sampling
 290. Thompson Sampling Intuition  
@@ -1270,26 +1270,26 @@ Advanced Recommender Systems with Python - Bonus
 301. Types Of Natural Language Processing  
 302. Classical vs Deep Learning Models  
 303. Bag-Of-Words Model  
-304. Natural Language Processing Python - Step 1: Get the Dataset  
-305. Natural Language Processing Python - Step 2: Importing the Libraries 
-306. Natural Language Processing Python - Step 3: Data Cleaning `re.sub()` 
-307. Natural Language Processing Python - Step 4: Data Cleaning `nltk.corpus.stopwords()` `nltk.stem.porter.PortStemmer()` 
-308. Natural Language Processing Python - Step 5: Bag of Words Model `feature_extraction.text.CountVectorizer()``fit_transform()` 
-309. Natural Language Processing Python - Step 6: Naive Bayes `GaussianNB()` `predict()` `confusion_matrix()` `accuracy_score()` 
-310. Natural Language Processing Python - Extra  
+304. NLP Python - Step 1: Get the Dataset  
+305. NLP Python - Step 2: Importing the Libraries 
+306. NLP Python - Step 3: Data Cleaning `re.sub()` 
+307. NLP Python - Step 4: Data Cleaning `nltk.corpus.stopwords()` `nltk.stem.porter.PortStemmer()` 
+308. NLP Python - Step 5: Bag of Words `feature_extraction.text.CountVectorizer()` `fit_transform()` 
+309. NLP Python - Step 6: Naive Bayes `GaussianNB()` `predict()` `confusion_matrix()` `accuracy_score()` 
+310. NLP Python - Extra  
 311. Homework Challenge  
-312. Natural Language Processing R - Step 1: Importing the Dataset `read.delim()`  
+312. NLP R - Step 1: Importing the Dataset `read.delim()`  
 313. Warning - Update 
-314. Natural Language Processing R - Step 2: Data Cleaning `VCorpus()`
-315. Natural Language Processing R - Step 3: Data Cleaning `tm_map()`  `content_transformer(tolower)` 
-316. Natural Language Processing R - Step 4: Data Cleaning `removeNumbers()` 
-317. Natural Language Processing R - Step 5: Data Cleaning `removePunctuation()` 
-318. Natural Language Processing R - Step 6: Stop Words from `SnowballC` Package `stopwords()` 
-319. Natural Language Processing R - Step 7: Stemming To Get Root Word `stemDocument` 
-320. Natural Language Processing R - Step 8: Removing Whitespace `stripWhitespace
-321. Natural Language Processing R - Step 9: Creating the Bag of Words Model `DocumentTermMatrix()` `removeSparseTerms()` 
-322. Natural Language Processing R -  Step 10: Training RF Classification Model `randomForest()`, Prediction `predict()`, Evaluation `table()` 
-323. Homework Challenge (Quiz 23: Natural Language Processing Quiz)
+314. NLP R - Step 2: Data Cleaning `VCorpus()`
+315. NLP R - Step 3: Data Cleaning `tm_map()`  `content_transformer(tolower)` 
+316. NLP R - Step 4: Data Cleaning `removeNumbers()` 
+317. NLP R - Step 5: Data Cleaning `removePunctuation()` 
+318. NLP R - Step 6: Stop Words from `SnowballC` Package `stopwords()` 
+319. NLP R - Step 7: Stemming To Get Root Word `stemDocument` 
+320. NLP R - Step 8: Removing Whitespace `stripWhitespace
+321. NLP R - Step 9: Creating the Bag of Words Model `DocumentTermMatrix()` `removeSparseTerms()` 
+322. NLP R -  Step 10: Training RF Classification Model `randomForest()`, Prediction `predict()`, Evaluation `table()` 
+323. Homework Challenge (Quiz 23: NLP Quiz)
 
 ### Section 35: Part 8 - Deep Learning
 324. Welcome To Part 8 - Deep Learning  
@@ -1309,7 +1309,7 @@ Advanced Recommender Systems with Python - Bonus
 336. ANN Python - Step 2: Data Pre-Processing `LabelEncoder()`  `OneHotEncoder()`  `train_test_split()` `StandardScaler()` 
 337. ANN Python - Step 3: "Build the Brain" Building the ANN Overview `tf.keras.models.Sequential()` `tf.keras.layers.Dense()` 
 338. ANN Python - Step 4: "Make the Brain Smart"Training the ANN `compile()`  `fit()` 
-339. ANN Python - Step 5: "Using the Brain" Making Predictions `predict()` and Evaluating `confusion_matrix()` `accuracy_score()` 
+339. ANN Python - Step 5: "Using the Brain" `predict()` and Evaluating `confusion_matrix()` `accuracy_score()` 
 340. ANN R - Step 1: Importing the Dataset & Data Preprocessing `as.numeric()` `sample.split()` `scale()`  
 341. ANN R - Step 2: Fitting ANN to the Training Set `h2o.init()` 
 342. ANN R - Step 3: Fitting ANN to the Training Set `h2o.deeplearning()` 
@@ -1342,7 +1342,7 @@ Advanced Recommender Systems with Python - Bonus
 365. PCA Python - Step 2: Training `LogisticRegression()` `fit()` `predict()` `confusion_matrix()` `accuracy_score()` `matplotlib` 
 366. PCA R - Step 1: Data Pre-Processing Data-Preprocessing `sample.split()` `scale()`  
 367. PCA R - Step 2: Applying the PCA `preProcess()` `predict()` 
-368. PCA R - Step 3: Fitting SVM `svm()`, Predicting `predict()`, Confusion matrix `table()`, Visualization `ElemStatLearn` (Quiz 27: PCA Quiz)  
+368. PCA R - Step 3: Fitting SVM `svm()` `predict()`, Confusion Matrix `table()`, Visualization `ElemStatLearn` (Quiz 27: PCA Quiz)  
 
 ### Section 40: Linear Discriminant Analysis (LDA)
 369. Linear Discriminant Analysis (LDA) Intuition  
@@ -1373,7 +1373,7 @@ Advanced Recommender Systems with Python - Bonus
 
 ### Section 46: Congratulations! Don't Forget Your Prize
 385. Huge Congrats For Completing The Challenge! 
-386. Bonus: How To Unlock Top Salaries (Live Training)
+386. Bonus: How To Unlock Top Salaries (Live Training)  
 
 ## [Python Mega Course: Learning Python in 60 Days, Build 20 Apps (Udemy)](https://www.udemy.com/course/the-python-mega-course/) 
 
