@@ -1,5 +1,5 @@
 # Python Course Work
-## [Automate The Boring Stuff With Python Programming (Udemy)]([https://www.udemy.com/course/automate/learn/lecture/3309062#overview](https://www.udemy.com/course/automate/)
+## [Automate The Boring Stuff With Python Programming (Udemy)](https://www.udemy.com/course/automate/)
 ### Section 1: Python Basics
 1. Get Python Installed (Quiz 1: Just a check in)    
 2. Basic Terminology and Using IDLE     
