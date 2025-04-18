@@ -1,103 +1,4 @@
 # Python Course Work
-
-## [The Python Bible - Everything You Need to Program in Python (Udemy)](https://www.udemy.com/course/the-python-bible/learn/lecture/5421966?start=15#overview)
-
-### Section 1: Course Introduction
-1. Course Structure
-   
-### Section 2: Installing Python, Getting Started & A Top Secret Tip!
-2. Installing Python On Windows    
-3. Installing Python On Mac    
-4. Installing Python On Linux    
-5. Meeting IDLE: Take a Tour of the Python Interactive Developer Environment (IDE)     
-6. The Secret of Top Programmers   
-7. A Quick Note    
-
-### Section 3: Simple Little Boxes - Variables in Python
-8. Section Overview    
-9. What is A Variable?    
-10. Updating Our Script (Quiz 1: Variables Quiz, Coding Exercise 1: Creating Variables)    
-11. Section Review    
-
-### Section 4: The 123s - Numbers In Python
-12. Section Overview    
-13. Basic Arithmetic, Floats and Modulo     
-14. Ordering Operations Using (Brackets!)    
-15. Project 1: Crafting A Health Potion - Part 1     
-16. Project 2: Crafting A Health Potion - Part 2    
-17. Fun With The Python Math Module (Optional)     
-18. Section Review  (Quiz 2: Python Numbers, Coding Exercise 2: Basic Algebra Coding Challenge, Coding Exercise 3: Overwriting Variables)    
-
-### Section 5: The ABCs - How To Use Strings To Hand Text In Python
-19. Section Overview    
-20. Hello World! (Coding Exercise 4: Hello World! Coding Exercise 5: Fixing Broken Strings)    
-21. Project 2: Hello You! Part 1 - Project Overview    
-22. Project 2: Hello You! Part 2 - Collecting Data    
-23. Project 2: Hello You! Part 3 - String Formatting (Coding Exercise 6: How Old Are You?, Coding Exercise 7: Tell Us About Yourself!)    
-24. Cool String Methods - Part 1     
-25. Cool String Methods - Part 2     
-26. Project 3: Email Slicer - Part 1 - What Are Slices?     
-27. Project 3: Email Slicer - Part 2 - Automated Slices (Quiz 3: Slices Quiz, Ccoding Exercise 8: Slicer Exercise)    
-28. Project 3: Email Slicer - Part 3 - Making The Slicer!    
-29. Section Review    
-
-### Section 6: If This, Then That: Logic and Conditional Flow in Python
-30. Section Overview    
-31. Booleans & Comparison Operators (Quiz 4: Comparison Operators Quiz)    
-32. If Statements (Coding Exercise 9: If Statements Challenge)    
-33. Python Logical Operators - Part 1: Not, And    
-34. Python Logical Operators - Part 2: OR Operator (Quiz 5: Logical Operators Quiz)    
-35. Section Review     
-
-### Section 7: Hold This For Me: Python Data Structures
-36. Section Overview     
-37. What Are Lists?     
-38. PROJECT 4 - Travis The Ridiculous Security System - Part 1     
-39. PROJECT 4 - Travis the Ridiculous Security System - Part 2    
-40. PROJECT 4 - Travis the Ridiculous Security System - Part 3     
-41. More Ways To Add Items To Lists     
-42. Tuples     
-43. Dictionaries Part 1 - What Are Dictionaries?     
-44. Dictionaries Part 2 - Build A Rough and Ready Database!    
-45. Project 5 - Cinema Simulator!    
-46. Section Review    
-
-### Section 8: Going Loopy - Loops in Python
-47. Section Overview    
-48. While Loops     
-49. Project 6: Baby Conversation Simulator     
-50. FOR Loops - Part 1    
-51. FOR Loops - Part 2     
-52. List Comprehensions     
-53. Project 7 - Pig Latin Translator - Part 1    
-54. Project 7 - Pig Latin Translator - Part 2     
-55. Section Review    
-
-### Section 9: Getting Funky - Functions in Python
-56. Section Overview    
-57. What are Functions? (Coding Exercise 10: Function Creation Challenge)    
-58. Variable Scope - Part 1     
-59. Variable Scope - Part 2     
-60. Keyword Arguments and Default Parameters     
-61. Packing & Unpacking Using `*args` and `**kwargs`     
-62. Project 8 - Tic Tac Toe Game! - Part 1    
-63. Project 8 - Tic Tac Toe Game! - Part 2    
-64. Section Review     
-
-### Section 10: OOPs! Object Oriented Programming (OOP) in Python 
-65. Section Overview    
-66. Objects and Classes: What Are They?     
-67. Project 9 - Make Your Own Coin! - Part 1     
-68. Project 9 - Make Your Own Coin! - Part 2     
-69. Project 10 - Make All The Coins!! - Part 1     
-70. Project 10 - Make All The Coins!! - Part 2     
-71. Project 11 - Make Your Own Bank!     
-72. Section Review     
-
-### Section 11: So, What is Next + Resources  
-73. Bonus Lecture (Coding Exercise 11: Goodbye You Beautiful People!)
-74. All Course Source Code    
-
 ## [Automate The Boring Stuff With Python Programming (Udemy)](https://www.udemy.com/course/automate/learn/lecture/3309062#overview)
 ### Section 1: Python Basics
 1. Get Python Installed (Quiz 1: Just a check in)    
@@ -272,80 +173,6 @@
 72. Huge Congrats for Completing the Challenge!    
 73. BONUS: Cloud Skills for ML & AI
 
-## [Cluster Analysis and Unsupervised Machine Learning in Python (Udemy)](https://www.udemy.com/course/cluster-analysis-unsupervised-machine-learning-python/learn/lecture/4966124#overview)   
-
-### Section 1: Introduction to Unsupervised Learning
-1. Introduction    
-2. Course Outline     
-3. What is Unsupervised Learning Used For?    
-4. Why Use Clustering?     
-5. Where To Get The Code    
-6. How to Succeed In This Course    
-
-### Section 2: K-Means Clustering
-7. An Easy Introduction to K-Means Clustering     
-8. Hard K-Means: Exercise Prompt 1     
-9. Hard K-Means: Exercise 1 Solution     
-10. Hard K-Means: Exercise Prompt 2     
-11. Hard K-Means: Exercise 2 Solution     
-12. Hard K-Means: Exercise Prompt 3    
-13. Hard K-Means: Exercise 3 Solution     
-14. Hard K-Means Objective: Theory     
-15. Hard K-Means Objective: Code     
-16. Soft K-Means     
-17. The Soft K-Means Objective Function     
-18. Soft K-Means in Python Code     
-19. How to Pace Yourself     
-20. Visualizing Each Step of K-Means     
-21. Examples Of Where K-Means Can Fail     
-22. Disadvantages of K-Means Clustering    
-23. How to Evaluate a Clustering (Purity, Davies-Bouldin Index)     
-24. Using K-Means On Real Data: MNIST     
-25. One Way to Choose K    
-26. K-Means Application: Finding Clusters of Related Words     
-27. Clustering for NLP and Computer Vision: Real-World Applications     
-28. Suggestion Box     
-
-### Section 3: Hierarchical Clustering
-29. Visual Walkthrough of Agglomerative Hierarchical Clustering     
-30. Agglomerative Clustering Options    
-31. Using Hierarchical Clustering in Python and Interpreting the Dendrogram     
-32. Application: Evolution     
-33. Application: Donald Trump vs. Hillary Clinton Tweets     
-
-### Section 4: Gaussian Mixture Models (GMMs)
-34. Gaussian Mixture Model (GMM) Algorithm     
-35. Write a Gaussian Mixture Model in Python Code     
-36. Practical Issues with GMM / Singular Covariance     
-37. Comparison between GMM and K-Means     
-38. Kernel Density Estimation     
-39. GMM vs Bayes Classifier (Pt 1)     
-40. GMM vs Bayes Classifier (Pt 2)     
-41. Expectation-Maximization (Pt 1)     
-42. Expectation-Maximization (Pt 2)     
-44. Future Unsupervised Learning Algorithms You Will Learn    
-
-### Section 5: Setting Up Your Environment (FAQ by Student Request)
-45. Pre-Installation Check    
-46. Anaconda Environment Setup    
-47. How To Install Numpy, Scipy, Matplotlib, Pandas, IPython, Theano, and TensorFlow    
-
-### Section 6: Extra Help With Python Coding For Beginners (FAQ by Student Request)
-48. How to Code by Yourself (Part 1)    
-49. How to Code by Yourself (Part 2)    
-50. Proof That Using Jupyter Notebook Is The Same As Not Using It    
-51. Python 2 vs Python 3    
-
-### Section 7: Effective Learning Strategies for Machine Learning (FAQ by Student Request)
-52. How to Succeed in this Course (Long Version)    
-53. Is this for Beginners or Experts? Academic or Practical? Fast or Slow-Paced?    
-54. Machine Learning and AI Prerequisite Roadmap (Pt 1)    
-55. Machine Learning and AI Prerequisite Roadmap (Pt 2)    
-
-### Section 8: Appendix/FAQ Finale  
-56. What is the Appendix?    
-57. Bonus    
-
 ## [Data Science: Supervised Machine Learning In Python (Udemy)](https://www.udemy.com/course/data-science-supervised-machine-learning-in-python/learn/lecture/5642624#overview)
 ### Section 1: Introduction and Review
 1. Introduction and Outline    
@@ -425,223 +252,178 @@
 53. What Is The Appendix?    
 54. Bonus    
 
-## [Python For Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440650#overview) 
-### Section 1: Course Introduction 
-1. Introduction to the Course    
-2. Course Help and Welcome    
-3. Course FAQs     
+## [Cluster Analysis and Unsupervised Machine Learning in Python (Udemy)](https://www.udemy.com/course/cluster-analysis-unsupervised-machine-learning-python/learn/lecture/4966124#overview)   
 
-### Section 2: Environment Set Up 
-4. Python Environment Setup    
+### Section 1: Introduction to Unsupervised Learning
+1. Introduction    
+2. Course Outline     
+3. What is Unsupervised Learning Used For?    
+4. Why Use Clustering?     
+5. Where To Get The Code    
+6. How to Succeed In This Course    
 
-### Section 3: Jupyter Overview
-5. Updates to Notebook Zip    
-6. Jupyter Notebooks     
-7. Optional: Virtual Environments     
+### Section 2: K-Means Clustering
+7. An Easy Introduction to K-Means Clustering     
+8. Hard K-Means: Exercise Prompt 1     
+9. Hard K-Means: Exercise 1 Solution     
+10. Hard K-Means: Exercise Prompt 2     
+11. Hard K-Means: Exercise 2 Solution     
+12. Hard K-Means: Exercise Prompt 3    
+13. Hard K-Means: Exercise 3 Solution     
+14. Hard K-Means Objective: Theory     
+15. Hard K-Means Objective: Code     
+16. Soft K-Means     
+17. The Soft K-Means Objective Function     
+18. Soft K-Means in Python Code     
+19. How to Pace Yourself     
+20. Visualizing Each Step of K-Means     
+21. Examples Of Where K-Means Can Fail     
+22. Disadvantages of K-Means Clustering    
+23. How to Evaluate a Clustering (Purity, Davies-Bouldin Index)     
+24. Using K-Means On Real Data: MNIST     
+25. One Way to Choose K    
+26. K-Means Application: Finding Clusters of Related Words     
+27. Clustering for NLP and Computer Vision: Real-World Applications     
+28. Suggestion Box     
 
-### Section 4: Python Crash Course
-8. Welcome to the Python Crash Course Section!    
-9. Introduction to Python Crash Course    
-10. Python Crash Course - Part 1     
-11. Python Crash Course - Part 2     
-12. Python Crash Course - Part 3     
-13. Python Crash Course - Part 4     
-14. Python Crash Course Exercises - Overview    
-15. Python Crash Course Exercises - Solutions    
+### Section 3: Hierarchical Clustering
+29. Visual Walkthrough of Agglomerative Hierarchical Clustering     
+30. Agglomerative Clustering Options    
+31. Using Hierarchical Clustering in Python and Interpreting the Dendrogram     
+32. Application: Evolution     
+33. Application: Donald Trump vs. Hillary Clinton Tweets     
 
-### Section 5: Python For Data Analysis - NumPy 
-16. Welcome to the NumPy Section!    
-17. Introduction to Numpy     
-18. Numpy Arrays     
-19. Quick Note on Array Indexing     
-20. Numpy Array Indexing     
-21. NumPy Operations     
-22. NumPy Exercises Overview    
-23. Numpy Exercises Solutions    
+### Section 4: Gaussian Mixture Models (GMMs)
+34. Gaussian Mixture Model (GMM) Algorithm     
+35. Write a Gaussian Mixture Model in Python Code     
+36. Practical Issues with GMM / Singular Covariance     
+37. Comparison between GMM and K-Means     
+38. Kernel Density Estimation     
+39. GMM vs Bayes Classifier (Pt 1)     
+40. GMM vs Bayes Classifier (Pt 2)     
+41. Expectation-Maximization (Pt 1)     
+42. Expectation-Maximization (Pt 2)     
+44. Future Unsupervised Learning Algorithms You Will Learn    
 
-### Section 6: Python For Data Analysis - Pandas 
-24. Welcome to the Pandas Section!    
-25. Introduction to Pandas     
-26. Series     
-27. DataFrames - Part 1     
-28. DataFrames - Part 2     
-29. DataFrames - Part 3    
-30. Missing Data     
-31. Groupby     
-32. Merging Joining and Concatenating     
-33. Operations     
-34. Data Input and Output     
+### Section 5: Setting Up Your Environment (FAQ by Student Request)
+45. Pre-Installation Check    
+46. Anaconda Environment Setup    
+47. How To Install Numpy, Scipy, Matplotlib, Pandas, IPython, Theano, and TensorFlow    
 
-### Section 7: Python For Data Analysis - Pandas Exercises
-35. Note on SF Salary Exercise    
-37. SF Salaries Solutions     
-38. Ecommerce Purchases Exercise Overview    
-39. Ecommerce Purchases Exercise Solutions     
+### Section 6: Extra Help With Python Coding For Beginners (FAQ by Student Request)
+48. How to Code by Yourself (Part 1)    
+49. How to Code by Yourself (Part 2)    
+50. Proof That Using Jupyter Notebook Is The Same As Not Using It    
+51. Python 2 vs Python 3    
 
-### Section 8: Python For Data Visualization - Matplotlib
-40. Welcome to the Data Visualization Section!    
-41. Introduction to Matplotlib     
-42. Matplotlib Part 1     
-43. Matplotlib Part 2     
-44. Matplotlib Part 3     
-45. Matplotlib Exercises Overview    
-46. Matplotlib Exercises - Solutions    
+### Section 7: Effective Learning Strategies for Machine Learning (FAQ by Student Request)
+52. How to Succeed in this Course (Long Version)    
+53. Is this for Beginners or Experts? Academic or Practical? Fast or Slow-Paced?    
+54. Machine Learning and AI Prerequisite Roadmap (Pt 1)    
+55. Machine Learning and AI Prerequisite Roadmap (Pt 2)    
 
-### Section 9: Python For Data Visualization - Seaborn 
-47. Introduction to Seaborn     
-48. Distribution Plots     
-49. Categorical Plots     
-50. Matrix Plots     
-51. Grids     
-52. Regression Plots     
-53. Style and Color     
-54. Seaborn Exercise Overview    
-55. Seaborn Exercise Solutions     
+### Section 8: Appendix/FAQ Finale  
+56. What is the Appendix?    
+57. Bonus    
 
-### Section 10: Python For Data Visualization - Pandas Built-In Data Visualization 
-56. Pandas Built-in Data Visualization     
-57. Pandas Data Visualization Exercise    
-58. Pandas Data Visualization Exercise - Solutions     
 
-### Section 11: Python For Data Visualization - Plotly and Cufflinks 
-59. Introduction to Plotly and Cufflinks    
-60. READ ME FIRST BEFORE PLOTLY PLEASE!    
-61. Plotly and Cufflinks    
+## [The Python Bible - Everything You Need to Program in Python (Udemy)](https://www.udemy.com/course/the-python-bible/learn/lecture/5421966?start=15#overview)
 
-### Section 12: Python For Data Visualization - Geographical Plotting
-62. Introduction to Geographical Plotting     
-63. Choropleth Maps - Part 1 - USA     
-64. Choropleth Maps - Part 2 - World     
+### Section 1: Course Introduction
+1. Course Structure
+   
+### Section 2: Installing Python, Getting Started & A Top Secret Tip!
+2. Installing Python On Windows    
+3. Installing Python On Mac    
+4. Installing Python On Linux    
+5. Meeting IDLE: Take a Tour of the Python Interactive Developer Environment (IDE)     
+6. The Secret of Top Programmers   
+7. A Quick Note    
 
-### Section 13: Data Capstone Project 
-67. Welcome to the Data Capstone Projects!    
-68. 911 Calls Project Overview    
-69. 911 Calls Solutions - Part 1    
-70. 911 Calls Solutions - Part 2    
-71. Bank Data    
-72. Finance Data Project Overview     
-73. Finance Project - Solutions Part 1    
-74. Finance Project - Solutions Part 2    
-75. Finance Project - Solutions Part 3     
+### Section 3: Simple Little Boxes - Variables in Python
+8. Section Overview    
+9. What is A Variable?    
+10. Updating Our Script (Quiz 1: Variables Quiz, Coding Exercise 1: Creating Variables)    
+11. Section Review    
 
-### Section 14: Introduction To Machine Learning
-76. Welcome to Machine Learning. Here are a few resources to get you started!     
-77. Welcome to the Machine Learning Section!    
-78. Supervised Learning Overview     
-79. Evaluating Performance - Classification Error Metrics     
-80. Evaluating Performance - Regression Error Metrics     
-81. Machine Learning with Python     
+### Section 4: The 123s - Numbers In Python
+12. Section Overview    
+13. Basic Arithmetic, Floats and Modulo     
+14. Ordering Operations Using (Brackets!)    
+15. Project 1: Crafting A Health Potion - Part 1     
+16. Project 2: Crafting A Health Potion - Part 2    
+17. Fun With The Python Math Module (Optional)     
+18. Section Review  (Quiz 2: Python Numbers, Coding Exercise 2: Basic Algebra Coding Challenge, Coding Exercise 3: Overwriting Variables)    
 
-### Section 15: Linear Regression
-82. Linear Regression Theory    
-83. model_selection Updates for SciKit Learn 0.18    
-84. Linear Regression with Python - Part 1     
-85. Linear Regression with Python - Part 2     
-86. Linear Regression Project Overview    
-87. Linear Regression Project Solution     
+### Section 5: The ABCs - How To Use Strings To Hand Text In Python
+19. Section Overview    
+20. Hello World! (Coding Exercise 4: Hello World! Coding Exercise 5: Fixing Broken Strings)    
+21. Project 2: Hello You! Part 1 - Project Overview    
+22. Project 2: Hello You! Part 2 - Collecting Data    
+23. Project 2: Hello You! Part 3 - String Formatting (Coding Exercise 6: How Old Are You?, Coding Exercise 7: Tell Us About Yourself!)    
+24. Cool String Methods - Part 1     
+25. Cool String Methods - Part 2     
+26. Project 3: Email Slicer - Part 1 - What Are Slices?     
+27. Project 3: Email Slicer - Part 2 - Automated Slices (Quiz 3: Slices Quiz, Ccoding Exercise 8: Slicer Exercise)    
+28. Project 3: Email Slicer - Part 3 - Making The Slicer!    
+29. Section Review    
 
-### Section 16: Cross Validation and Bias-Variance Trade Off 
-88. Bias Variance Trade-Off     
+### Section 6: If This, Then That: Logic and Conditional Flow in Python
+30. Section Overview    
+31. Booleans & Comparison Operators (Quiz 4: Comparison Operators Quiz)    
+32. If Statements (Coding Exercise 9: If Statements Challenge)    
+33. Python Logical Operators - Part 1: Not, And    
+34. Python Logical Operators - Part 2: OR Operator (Quiz 5: Logical Operators Quiz)    
+35. Section Review     
 
-### Section 17: Logistic Regression
-89. Logistic Regression Theory     
-90. Logistic Regression with Python - Part 1     
-91. Logistic Regression with Python - Part 2    
-92. Logistic Regression with Python - Part 3     
-93. Logistic Regression Project Overview    
-94. Logistic Regression Project Solutions     
+### Section 7: Hold This For Me: Python Data Structures
+36. Section Overview     
+37. What Are Lists?     
+38. PROJECT 4 - Travis The Ridiculous Security System - Part 1     
+39. PROJECT 4 - Travis the Ridiculous Security System - Part 2    
+40. PROJECT 4 - Travis the Ridiculous Security System - Part 3     
+41. More Ways To Add Items To Lists     
+42. Tuples     
+43. Dictionaries Part 1 - What Are Dictionaries?     
+44. Dictionaries Part 2 - Build A Rough and Ready Database!    
+45. Project 5 - Cinema Simulator!    
+46. Section Review    
 
-### Section 18: K Nearest Neighbors
-95. KNN Theory     
-96. KNN with Python     
-97. KNN Project Overview    
-98. KNN Project Solutions     
+### Section 8: Going Loopy - Loops in Python
+47. Section Overview    
+48. While Loops     
+49. Project 6: Baby Conversation Simulator     
+50. FOR Loops - Part 1    
+51. FOR Loops - Part 2     
+52. List Comprehensions     
+53. Project 7 - Pig Latin Translator - Part 1    
+54. Project 7 - Pig Latin Translator - Part 2     
+55. Section Review    
 
-### Section 19: Decision Trees and Random Forests 
-99. Introduction to Tree Methods     
-100. Decision Trees and Random Forest with Python     
-101. Decision Trees and Random Forest Project Overview    
-102. Decision Trees and Random Forest Solutions Part 1     
-103. Decision Trees and Random Forest Solutions Part 2    
+### Section 9: Getting Funky - Functions in Python
+56. Section Overview    
+57. What are Functions? (Coding Exercise 10: Function Creation Challenge)    
+58. Variable Scope - Part 1     
+59. Variable Scope - Part 2     
+60. Keyword Arguments and Default Parameters     
+61. Packing & Unpacking Using `*args` and `**kwargs`     
+62. Project 8 - Tic Tac Toe Game! - Part 1    
+63. Project 8 - Tic Tac Toe Game! - Part 2    
+64. Section Review     
 
-### Section 20: Support Vector Machines
-104. SVM Theory     
-105. Support Vector Machines with Python     
-106. SVM Project Overview    
-107. SVM Project Solution     
+### Section 10: OOPs! Object Oriented Programming (OOP) in Python 
+65. Section Overview    
+66. Objects and Classes: What Are They?     
+67. Project 9 - Make Your Own Coin! - Part 1     
+68. Project 9 - Make Your Own Coin! - Part 2     
+69. Project 10 - Make All The Coins!! - Part 1     
+70. Project 10 - Make All The Coins!! - Part 2     
+71. Project 11 - Make Your Own Bank!     
+72. Section Review     
 
-### Section 21: K Means Clustering 
-108. K Means Algorithm Theory     
-109. K Means with Python     
-110. K Means Project Overview    
-111. K Means Project Solutions      
-
-### Section 22: Principal Component Analysis  
-112. Principal Component Analysis     
-113. PCA with Python     
-
-### Section 23: Recommender Systems 
-114. Recommender Systems     
-115. Recommender Systems with Python - Part 1     
-116. Recommender Systems with Python - Part 2     
-Advanced Recommender Systems with Python - Bonus     
-
-### Section 24: Natural Language Processing
-117. Natural Language Processing Theory     
-118. NLP with Python - Part 1     
-119. NLP with Python - Part 2     
-120. NLP with Python - Part 3     
-121. NLP Project Overview    
-122. NLP Project Solutions     
-
-### Section 25: Neural Nets and Deep Learning
-123. Download TensorFlow Notebooks Here  (Quiz 1: Quick Check for Notes)    
-124. Welcome to the Deep Learning Section!    
-125. Introduction to Artificial Neural Networks (ANN)     
-126. Installing Tensorflow     
-127. Perceptron Model    
-128. Neural Networks     
-129. Activation Functions     
-130. Multi-Class Classification Considerations     
-131. Cost Functions and Gradient Descent    
-132. Backpropagation     
-133. TensorFlow vs Keras     
-134. TF Syntax Basics - Part One - Preparing the Data     
-135. TF Syntax Basics - Part Two - Creating and Training the Model     
-136. TF Syntax Basics - Part Three - Model Evaluation     
-137. TF Regression Code Along - Exploratory Data Analysis     
-138. TF Regression Code Along - Exploratory Data Analysis - Continued     
-139. TF Regression Code Along - Data Preprocessing and Creating a Model     
-140. TF Regression Code Along - Model Evaluation and Predictions     
-141. TF Classification Code Along - EDA and Preprocessing     
-142. TF Classification - Dealing with Overfitting and Evaluation     
-143. TensorFlow 2.0 Project Options Overview    
-144. TensorFlow 2.0 Project Notebook Overview    
-145. Keras Project Solutions - Dealing with Missing Data     
-146. Keras Project Solutions - Dealing with Missing Data - Part Two     
-147. Keras Project Solutions - Categorical Data    
-148. Keras Project Solutions - Data PreProcessing     
-149. Keras Project Solutions - Data PreProcessing     
-150. Keras Project Solutions - Creating and Training a Model     
-151. Keras Project Solutions - Model Evaluation     
-152. Tensorboard    
-
-### Section 26: Big Data and Spark With Python 
-153. Welcome to the Big Data Section!     
-154. Big Data Overview     
-155. Spark Overview     
-156. Local Spark Set-Up     
-157. AWS Account Set-Up     
-158. Quick Note on AWS Security    
-159. EC2 Instance Set-Up     
-160. SSH with Mac or Linux     
-161. PySpark Setup    
-162. Lambda Expressions Review     
-163. Introduction to Spark and Python     
-164. RDD Transformations and Actions     
-
-### Section 27: Bonus Section Thank You! 
-165. Bonus Lecture    
+### Section 11: So, What is Next + Resources  
+73. Bonus Lecture (Coding Exercise 11: Goodbye You Beautiful People!)
+74. All Course Source Code    
 
 ## [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize (Udemy)](https://www.udemy.com/course/deeplearning/learn/lecture/35733680#overview)
 
@@ -885,7 +667,7 @@ Advanced Recommender Systems with Python - Bonus
 
 ### Section 27: Congratulations! Don't Forget Your Prize
 191. Huge Congrats For Completing The Challenge!    
-192. Bonus: How To UNLOCK Top Salaries (Live Training)    
+192. Bonus: How To UNLOCK Top Salaries (Live Training)   
 
 ## [Artificial Neural Network for Regression (Udemy)](https://www.udemy.com/course/linear-regression-with-artificial-neural-network/?referralCode=2E5BC40C4E666DC53A22)
 ### Section 1: Introduction 
@@ -909,176 +691,223 @@ Advanced Recommender Systems with Python - Bonus
 12. Predicting the Results of the Test Set: `predict()`     
 13. Bonus: How To UNLOCK Top Salaries (Live Training)    
 
-## [Machine Learning, Data Science, and Generative AI with Python (Udemy)](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/learn/lecture/4020038#overview) 
-### Section 1: Getting Started
-1. Introduction    
-2. Udemy 101: Getting The Most From This Course    
-4. Installation: Getting Started     
-5. Activity: Windows: Installing And Using Anaconda & Course Materials     
-6. Activity: Mac: Installing And Using Anaconda & Course Materials    
-7. Activity: Linux: Installing And Using Anaconda & Course Materials     
-8. Python Basics, Part 1 (Optional): Python As a Dynamically Typed Language     
-9. Activity: Python Basics, Part 2 (Optional): Lists, Tuples, Dictionaries     
-10. Activity: Python Basics, Part 3 (Optional): Functions, Lambdas    
-11. Activity: Python Basics, Part 4 (Optional): Boolean Expressions, Looping     
-12. Introducing The Pandas Library (Optional)     
+## [Python For Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440650#overview) 
+### Section 1: Course Introduction 
+1. Introduction to the Course    
+2. Course Help and Welcome    
+3. Course FAQs     
 
-### Section 2: Statistics and Probability Refresh and Python Practice
-13. Types Of Data (Numerical, Categorical, Ordinal)     
-14. Mean, Median, Mode    
-15. Activity: Using Mean, Median, And Mode In Python     
-16. Activity: Variation And Standard Deviation     
-17. Probability Density Function and Probability Mass Function     
-18. Common Data Distributions (Normal, Binomial, Poisson, Etc.)     
-19. Activity: Percentiles And Moments     
-20. Activity: A Crash Course In Matplotlib     
-21. Activity: Advanced Visualization With Seaborn     
-22. Activity: Covariance And Correlation     
-23. Exercise: Conditional Probability     
-24. Exercise Solution: Conditional Probability Of Purchase By Age     
-25. Bayes' Theorem       
+### Section 2: Environment Set Up 
+4. Python Environment Setup    
 
-### Section 3: Predictive Models
-26. Activity: Linear Regression    
-27. Activity: Polynomial Regression     
-28. Activity: Multiple Regression, And Predicting Car Prices     
-29. Multi-Level Models     
+### Section 3: Jupyter Overview
+5. Updates to Notebook Zip    
+6. Jupyter Notebooks     
+7. Optional: Virtual Environments     
 
-### Section 4: Machine Learning with Python
-30. Supervised Vs. Unsupervised Learning, And Train/Test     
-31. Activity: Using Train/Test To Prevent Overfitting A Polynomial Regression     
-32. Bayesian Methods: Concepts    
-33. Activity: Implementing A Spam Classifier With Naïve Bayes     
-34. K-Means Clustering     
-35. Activity: Clustering People Based On Income And Age     
-36. Measuring Entropy     
-37. Activity: Windows: Installing Graphviz     
-38. Activity: Mac: Installing Graphviz     
-39. Activity: Linux: Installing Graphviz     
-40. Decision Trees: Concepts     
-41. Activity: Decision Trees: Predicting Hiring Decisions     
-42. Ensemble Learning     
-43. Activity: Xgboost     
-44. Support Vector Machines (SVM) Overview     
-45. Activity: Using SVM To Cluster People Using Scikit-Learn     
+### Section 4: Python Crash Course
+8. Welcome to the Python Crash Course Section!    
+9. Introduction to Python Crash Course    
+10. Python Crash Course - Part 1     
+11. Python Crash Course - Part 2     
+12. Python Crash Course - Part 3     
+13. Python Crash Course - Part 4     
+14. Python Crash Course Exercises - Overview    
+15. Python Crash Course Exercises - Solutions    
 
-### Section 5: Recommender Systems
-46. User-Based Collaborative Filtering    
-47. Item-Based Collaborative Filtering     
-48. Activity: Finding Movie Similarities Using Cosine Similarity    
-49. Activity: Improving The Results Of Movie Similarities     
-50. Activity: Making Movie Recommendations With Item-Based Collaborative Filtering     
-51. Exercise: Improve The Recommender's Results     
+### Section 5: Python For Data Analysis - NumPy 
+16. Welcome to the NumPy Section!    
+17. Introduction to Numpy     
+18. Numpy Arrays     
+19. Quick Note on Array Indexing     
+20. Numpy Array Indexing     
+21. NumPy Operations     
+22. NumPy Exercises Overview    
+23. Numpy Exercises Solutions    
 
-### Section 6: More Data Mining and Machine Learning Techniques
-52. K-Nearest-Neighbors: Concepts     
-53. Activity: Using KNN To Predict A Rating For A Movie     
-54. Dimensionality Reduction; Principal Component Analysis (PCA)    
-55. Activity: PCA Example With The Iris Data Set     
-56. Data Warehousing Overview: ETL And ELT     
-57. Reinforcement Learning     
-58. Activity: Reinforcement Learning & Q-Learning With Gym     
-59. Understanding A Confusion Matrix     
-60. Measuring Classifiers (Precision, Recall, F1, ROC, AUC)     
+### Section 6: Python For Data Analysis - Pandas 
+24. Welcome to the Pandas Section!    
+25. Introduction to Pandas     
+26. Series     
+27. DataFrames - Part 1     
+28. DataFrames - Part 2     
+29. DataFrames - Part 3    
+30. Missing Data     
+31. Groupby     
+32. Merging Joining and Concatenating     
+33. Operations     
+34. Data Input and Output     
 
-### Section 7: Dealing with Real-World Data
-61. Bias/Variance Tradeoff     
-62. Activity: ==K-Fold Cross-Validation To Avoid Overfitting    == 
-63. Data Cleaning And Normalization     
-64. Activity: Cleaning Web Log Data     
-65. Normalizing Numerical Data     
-66. Activity: Detecting Outliers    
-67. Feature Engineering And The Curse Of Dimensionality     
-68. Imputation Techniques For Missing Data     
-69. Handling Unbalanced Data: Oversampling, Undersampling, And SMOTE     
-70. Binning, Transforming, Encoding, Scaling, And Shuffling     
+### Section 7: Python For Data Analysis - Pandas Exercises
+35. Note on SF Salary Exercise    
+37. SF Salaries Solutions     
+38. Ecommerce Purchases Exercise Overview    
+39. Ecommerce Purchases Exercise Solutions     
 
-### Section 8: Apache Spark: Machine Learning on Big Data
-71. Warning About Java 11 And Spark 3!     
-72. Spark Installation Notes For Macos And Linux Users     
-73. Activity: Installing Spark - Part 1: Installing Spark on Windows & Mac OS     
-74. Activity: Installing Spark - Part 2: Get Spark Running in Stadalone Mode     
-75. Spark Introduction     
-76. Spark And The Resilient Distributed Dataset (RDD)     
-77. Introducing Mllib     
-78. Introduction To Decision Trees In Spark     
-79. Activity: K-Means Clustering In Spark     
-80. TF / IDF     
-81. Activity: Searching Wikipedia With Spark     
-82. Activity: Using The Spark Dataframe API For MLLib     
+### Section 8: Python For Data Visualization - Matplotlib
+40. Welcome to the Data Visualization Section!    
+41. Introduction to Matplotlib     
+42. Matplotlib Part 1     
+43. Matplotlib Part 2     
+44. Matplotlib Part 3     
+45. Matplotlib Exercises Overview    
+46. Matplotlib Exercises - Solutions    
 
-### Section 9: Experimental Design/ML in the Real World
-83. Deploying Models To Real-Time Systems     
-84. A/B Testing Concepts     
-85. T-Tests And P-Values     
-86. Activity: Hands-On With T-Tests     
-87. Determining How Long To Run An Experiment     
-88. A/B Test "Gotchas"    
+### Section 9: Python For Data Visualization - Seaborn 
+47. Introduction to Seaborn     
+48. Distribution Plots     
+49. Categorical Plots     
+50. Matrix Plots     
+51. Grids     
+52. Regression Plots     
+53. Style and Color     
+54. Seaborn Exercise Overview    
+55. Seaborn Exercise Solutions     
 
-### Section 10: Deep Learning and Neural Networks
-89. Deep Learning Pre-Requisites     
-90. The History Of Artificial Neural Networks     
-91. Activity: Deep Learning In The Tensorflow Playground     	
-93. Introducing Tensorflow    
-94. Activity: Using Tensorflow, Part 1     
-95. Activity: Using Tensorflow, Part 2     
-96. Activity: Introducing Keras     
-97. Activity: Using Keras To Predict Political Affiliations     
-98. Convolutional Neural Networks (CNN)    
-99. Activity: Using CNNs For Handwriting Recognition     
-100. Recurrent Neural Networks (RNN's)     
-101. Activity: Using A RNN For Sentiment Analysis     
-102. Activity: Transfer Learning     
-103. Tuning Neural Networks: Learning Rate And Batch Size Hyperparameters    
-104. Deep Learning Regularization With Dropout And Early Stopping     
-105. The Ethics Of Deep Learning     
+### Section 10: Python For Data Visualization - Pandas Built-In Data Visualization 
+56. Pandas Built-in Data Visualization     
+57. Pandas Data Visualization Exercise    
+58. Pandas Data Visualization Exercise - Solutions     
 
-### Section 11: Generative Models
-106. Variational Auto-Encoders (VAEs) - How They Work     
-107. Variational Auto-Encoders (VAE) - Hands-On With Fashion MNIST     
-108. Generative Adversarial Networks (GANs) - How They Work     
-109. Generative Adversarial Networks (GANs) - Playing With Some Demos     
-110. Generative Adversarial Networks (GANs) - Hands-On With Fashion MNIST     
-111. Learning More About Deep Learning     
+### Section 11: Python For Data Visualization - Plotly and Cufflinks 
+59. Introduction to Plotly and Cufflinks    
+60. READ ME FIRST BEFORE PLOTLY PLEASE!    
+61. Plotly and Cufflinks    
 
-### Section 12: Generative AI: GPT, ChatGPT, Transformers, Self Attention Based Neural Networks
-112. The Transformer Architecture (Encoders, Decoders, And Self-Attention)     
-113. Self-Attention, Masked Self-Attention, And Multi-Headed Self Attention In Depth     
-114. Applications Of Transformers (GPT)     
-115. How GPT Works, Part 1: The GPT Transformer Architecture     
-116. How Gpt Works, Part 2: Tokenization, Positional Encoding, Embedding     
-117. Fine Tuning / Transfer Learning With Transformers     
-118. Activity: Tokenization With Google Colab And Huggingface     
-119. Activity: Positional Encoding     
-120. Activity: Masked, Multi-Headed Self Attention With Bert, Bertviz, And Exbert     
-121. Activity: Using Small And Large GPT Models Within Google Colab And Huggingface    
-122. Activity: Fine Tuning GPT With The IMDB Dataset     
-123. From GPT To ChatGPT: Deep Reinforcement Learning, Proximal Policy Gradients     
-124. From GPT To ChatGPT: Reinforcement Learning From Human Feedback And Moderation    
+### Section 12: Python For Data Visualization - Geographical Plotting
+62. Introduction to Geographical Plotting     
+63. Choropleth Maps - Part 1 - USA     
+64. Choropleth Maps - Part 2 - World     
 
-### Section 13: The Open AI API (Developing with GPT and ChatGPT)
-125. Activity: The OpenAI Chat Completions API    
-126. Activity: Using Tools And Functions In The OpenAI Chat Completion API     
-127. Activity: The Images (DALL-E) API In OpenAI     
-128. Activity: The Embeddings API In OpenAI: Finding Similarities Between Words     
-129. The Legacy Fine-Tuning API For GPT Models In OpenAI     
-130. Demo: Fine-Tuning Openai's Davinci Model To Simulate Data From Star Trek     
-131. The New Openai Fine-Tuning API; Fine-Tuning GPT-3.5 To Simulate Commander Data!     
-132. Activity: The OpenAI Moderation API    
-133. Activity: The OpenAI Audio API (Speech To Text)     
+### Section 13: Data Capstone Project 
+67. Welcome to the Data Capstone Projects!    
+68. 911 Calls Project Overview    
+69. 911 Calls Solutions - Part 1    
+70. 911 Calls Solutions - Part 2    
+71. Bank Data    
+72. Finance Data Project Overview     
+73. Finance Project - Solutions Part 1    
+74. Finance Project - Solutions Part 2    
+75. Finance Project - Solutions Part 3     
 
-### Section 14: Retrieval Augment Generation (RAG)
-134. Retrieval Augmented Generation (RAG): How It Works, With Some Examples.     
-135. Demo: Using Retrieval Augmented Generation (Rag) To Simulate Data From Star Trek     
+### Section 14: Introduction To Machine Learning
+76. Welcome to Machine Learning. Here are a few resources to get you started!     
+77. Welcome to the Machine Learning Section!    
+78. Supervised Learning Overview     
+79. Evaluating Performance - Classification Error Metrics     
+80. Evaluating Performance - Regression Error Metrics     
+81. Machine Learning with Python     
 
-### Section 15: Final Project 
-136. Your Final Project Assignment: Classification    
-137. Final Project Review     
+### Section 15: Linear Regression
+82. Linear Regression Theory    
+83. model_selection Updates for SciKit Learn 0.18    
+84. Linear Regression with Python - Part 1     
+85. Linear Regression with Python - Part 2     
+86. Linear Regression Project Overview    
+87. Linear Regression Project Solution     
 
-### Section 16: You Made It!
-138. More To Explore     
-139. Don't Forget To Leave A Rating!     
-140. Bonus Lecture     
+### Section 16: Cross Validation and Bias-Variance Trade Off 
+88. Bias Variance Trade-Off     
+
+### Section 17: Logistic Regression
+89. Logistic Regression Theory     
+90. Logistic Regression with Python - Part 1     
+91. Logistic Regression with Python - Part 2    
+92. Logistic Regression with Python - Part 3     
+93. Logistic Regression Project Overview    
+94. Logistic Regression Project Solutions     
+
+### Section 18: K Nearest Neighbors
+95. KNN Theory     
+96. KNN with Python     
+97. KNN Project Overview    
+98. KNN Project Solutions     
+
+### Section 19: Decision Trees and Random Forests 
+99. Introduction to Tree Methods     
+100. Decision Trees and Random Forest with Python     
+101. Decision Trees and Random Forest Project Overview    
+102. Decision Trees and Random Forest Solutions Part 1     
+103. Decision Trees and Random Forest Solutions Part 2    
+
+### Section 20: Support Vector Machines
+104. SVM Theory     
+105. Support Vector Machines with Python     
+106. SVM Project Overview    
+107. SVM Project Solution     
+
+### Section 21: K Means Clustering 
+108. K Means Algorithm Theory     
+109. K Means with Python     
+110. K Means Project Overview    
+111. K Means Project Solutions      
+
+### Section 22: Principal Component Analysis  
+112. Principal Component Analysis     
+113. PCA with Python     
+
+### Section 23: Recommender Systems 
+114. Recommender Systems     
+115. Recommender Systems with Python - Part 1     
+116. Recommender Systems with Python - Part 2     
+Advanced Recommender Systems with Python - Bonus     
+
+### Section 24: Natural Language Processing
+117. Natural Language Processing Theory     
+118. NLP with Python - Part 1     
+119. NLP with Python - Part 2     
+120. NLP with Python - Part 3     
+121. NLP Project Overview    
+122. NLP Project Solutions     
+
+### Section 25: Neural Nets and Deep Learning
+123. Download TensorFlow Notebooks Here  (Quiz 1: Quick Check for Notes)    
+124. Welcome to the Deep Learning Section!    
+125. Introduction to Artificial Neural Networks (ANN)     
+126. Installing Tensorflow     
+127. Perceptron Model    
+128. Neural Networks     
+129. Activation Functions     
+130. Multi-Class Classification Considerations     
+131. Cost Functions and Gradient Descent    
+132. Backpropagation     
+133. TensorFlow vs Keras     
+134. TF Syntax Basics - Part One - Preparing the Data     
+135. TF Syntax Basics - Part Two - Creating and Training the Model     
+136. TF Syntax Basics - Part Three - Model Evaluation     
+137. TF Regression Code Along - Exploratory Data Analysis     
+138. TF Regression Code Along - Exploratory Data Analysis - Continued     
+139. TF Regression Code Along - Data Preprocessing and Creating a Model     
+140. TF Regression Code Along - Model Evaluation and Predictions     
+141. TF Classification Code Along - EDA and Preprocessing     
+142. TF Classification - Dealing with Overfitting and Evaluation     
+143. TensorFlow 2.0 Project Options Overview    
+144. TensorFlow 2.0 Project Notebook Overview    
+145. Keras Project Solutions - Dealing with Missing Data     
+146. Keras Project Solutions - Dealing with Missing Data - Part Two     
+147. Keras Project Solutions - Categorical Data    
+148. Keras Project Solutions - Data PreProcessing     
+149. Keras Project Solutions - Data PreProcessing     
+150. Keras Project Solutions - Creating and Training a Model     
+151. Keras Project Solutions - Model Evaluation     
+152. Tensorboard    
+
+### Section 26: Big Data and Spark With Python 
+153. Welcome to the Big Data Section!     
+154. Big Data Overview     
+155. Spark Overview     
+156. Local Spark Set-Up     
+157. AWS Account Set-Up     
+158. Quick Note on AWS Security    
+159. EC2 Instance Set-Up     
+160. SSH with Mac or Linux     
+161. PySpark Setup    
+162. Lambda Expressions Review     
+163. Introduction to Spark and Python     
+164. RDD Transformations and Actions     
+
+### Section 27: Bonus Section Thank You! 
+165. Bonus Lecture    
 
 ## [Python Mega Course: Learning Python in 60 Days, Build 20 Apps (Udemy)](https://www.udemy.com/course/the-python-mega-course/learn/lecture/38366500#overview) 
 
@@ -1672,3 +1501,174 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 71: Congratulations
 458. Bonus Lecture    
+
+## [Machine Learning, Data Science, and Generative AI with Python (Udemy)](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/learn/lecture/4020038#overview) 
+### Section 1: Getting Started
+1. Introduction    
+2. Udemy 101: Getting The Most From This Course    
+4. Installation: Getting Started     
+5. Activity: Windows: Installing And Using Anaconda & Course Materials     
+6. Activity: Mac: Installing And Using Anaconda & Course Materials    
+7. Activity: Linux: Installing And Using Anaconda & Course Materials     
+8. Python Basics, Part 1 (Optional): Python As a Dynamically Typed Language     
+9. Activity: Python Basics, Part 2 (Optional): Lists, Tuples, Dictionaries     
+10. Activity: Python Basics, Part 3 (Optional): Functions, Lambdas    
+11. Activity: Python Basics, Part 4 (Optional): Boolean Expressions, Looping     
+12. Introducing The Pandas Library (Optional)     
+
+### Section 2: Statistics and Probability Refresh and Python Practice
+13. Types Of Data (Numerical, Categorical, Ordinal)     
+14. Mean, Median, Mode    
+15. Activity: Using Mean, Median, And Mode In Python     
+16. Activity: Variation And Standard Deviation     
+17. Probability Density Function and Probability Mass Function     
+18. Common Data Distributions (Normal, Binomial, Poisson, Etc.)     
+19. Activity: Percentiles And Moments     
+20. Activity: A Crash Course In Matplotlib     
+21. Activity: Advanced Visualization With Seaborn     
+22. Activity: Covariance And Correlation     
+23. Exercise: Conditional Probability     
+24. Exercise Solution: Conditional Probability Of Purchase By Age     
+25. Bayes' Theorem       
+
+### Section 3: Predictive Models
+26. Activity: Linear Regression    
+27. Activity: Polynomial Regression     
+28. Activity: Multiple Regression, And Predicting Car Prices     
+29. Multi-Level Models     
+
+### Section 4: Machine Learning with Python
+30. Supervised Vs. Unsupervised Learning, And Train/Test     
+31. Activity: Using Train/Test To Prevent Overfitting A Polynomial Regression     
+32. Bayesian Methods: Concepts    
+33. Activity: Implementing A Spam Classifier With Naïve Bayes     
+34. K-Means Clustering     
+35. Activity: Clustering People Based On Income And Age     
+36. Measuring Entropy     
+37. Activity: Windows: Installing Graphviz     
+38. Activity: Mac: Installing Graphviz     
+39. Activity: Linux: Installing Graphviz     
+40. Decision Trees: Concepts     
+41. Activity: Decision Trees: Predicting Hiring Decisions     
+42. Ensemble Learning     
+43. Activity: Xgboost     
+44. Support Vector Machines (SVM) Overview     
+45. Activity: Using SVM To Cluster People Using Scikit-Learn     
+
+### Section 5: Recommender Systems
+46. User-Based Collaborative Filtering    
+47. Item-Based Collaborative Filtering     
+48. Activity: Finding Movie Similarities Using Cosine Similarity    
+49. Activity: Improving The Results Of Movie Similarities     
+50. Activity: Making Movie Recommendations With Item-Based Collaborative Filtering     
+51. Exercise: Improve The Recommender's Results     
+
+### Section 6: More Data Mining and Machine Learning Techniques
+52. K-Nearest-Neighbors: Concepts     
+53. Activity: Using KNN To Predict A Rating For A Movie     
+54. Dimensionality Reduction; Principal Component Analysis (PCA)    
+55. Activity: PCA Example With The Iris Data Set     
+56. Data Warehousing Overview: ETL And ELT     
+57. Reinforcement Learning     
+58. Activity: Reinforcement Learning & Q-Learning With Gym     
+59. Understanding A Confusion Matrix     
+60. Measuring Classifiers (Precision, Recall, F1, ROC, AUC)     
+
+### Section 7: Dealing with Real-World Data
+61. Bias/Variance Tradeoff     
+62. Activity: ==K-Fold Cross-Validation To Avoid Overfitting 
+63. Data Cleaning And Normalization     
+64. Activity: Cleaning Web Log Data     
+65. Normalizing Numerical Data     
+66. Activity: Detecting Outliers    
+67. Feature Engineering And The Curse Of Dimensionality     
+68. Imputation Techniques For Missing Data     
+69. Handling Unbalanced Data: Oversampling, Undersampling, And SMOTE     
+70. Binning, Transforming, Encoding, Scaling, And Shuffling     
+
+### Section 8: Apache Spark: Machine Learning on Big Data
+71. Warning About Java 11 And Spark 3!     
+72. Spark Installation Notes For Macos And Linux Users     
+73. Activity: Installing Spark - Part 1: Installing Spark on Windows & Mac OS     
+74. Activity: Installing Spark - Part 2: Get Spark Running in Stadalone Mode     
+75. Spark Introduction     
+76. Spark And The Resilient Distributed Dataset (RDD)     
+77. Introducing Mllib     
+78. Introduction To Decision Trees In Spark     
+79. Activity: K-Means Clustering In Spark     
+80. TF / IDF     
+81. Activity: Searching Wikipedia With Spark     
+82. Activity: Using The Spark Dataframe API For MLLib     
+
+### Section 9: Experimental Design/ML in the Real World
+83. Deploying Models To Real-Time Systems     
+84. A/B Testing Concepts     
+85. T-Tests And P-Values     
+86. Activity: Hands-On With T-Tests     
+87. Determining How Long To Run An Experiment     
+88. A/B Test "Gotchas"    
+
+### Section 10: Deep Learning and Neural Networks
+89. Deep Learning Pre-Requisites     
+90. The History Of Artificial Neural Networks     
+91. Activity: Deep Learning In The Tensorflow Playground     	
+93. Introducing Tensorflow    
+94. Activity: Using Tensorflow, Part 1     
+95. Activity: Using Tensorflow, Part 2     
+96. Activity: Introducing Keras     
+97. Activity: Using Keras To Predict Political Affiliations     
+98. Convolutional Neural Networks (CNN)    
+99. Activity: Using CNNs For Handwriting Recognition     
+100. Recurrent Neural Networks (RNN's)     
+101. Activity: Using A RNN For Sentiment Analysis     
+102. Activity: Transfer Learning     
+103. Tuning Neural Networks: Learning Rate And Batch Size Hyperparameters    
+104. Deep Learning Regularization With Dropout And Early Stopping     
+105. The Ethics Of Deep Learning     
+
+### Section 11: Generative Models
+106. Variational Auto-Encoders (VAEs) - How They Work     
+107. Variational Auto-Encoders (VAE) - Hands-On With Fashion MNIST     
+108. Generative Adversarial Networks (GANs) - How They Work     
+109. Generative Adversarial Networks (GANs) - Playing With Some Demos     
+110. Generative Adversarial Networks (GANs) - Hands-On With Fashion MNIST     
+111. Learning More About Deep Learning     
+
+### Section 12: Generative AI: GPT, ChatGPT, Transformers, Self Attention Based Neural Networks
+112. The Transformer Architecture (Encoders, Decoders, And Self-Attention)     
+113. Self-Attention, Masked Self-Attention, And Multi-Headed Self Attention In Depth     
+114. Applications Of Transformers (GPT)     
+115. How GPT Works, Part 1: The GPT Transformer Architecture     
+116. How Gpt Works, Part 2: Tokenization, Positional Encoding, Embedding     
+117. Fine Tuning / Transfer Learning With Transformers     
+118. Activity: Tokenization With Google Colab And Huggingface     
+119. Activity: Positional Encoding     
+120. Activity: Masked, Multi-Headed Self Attention With Bert, Bertviz, And Exbert     
+121. Activity: Using Small And Large GPT Models Within Google Colab And Huggingface    
+122. Activity: Fine Tuning GPT With The IMDB Dataset     
+123. From GPT To ChatGPT: Deep Reinforcement Learning, Proximal Policy Gradients     
+124. From GPT To ChatGPT: Reinforcement Learning From Human Feedback And Moderation    
+
+### Section 13: The Open AI API (Developing with GPT and ChatGPT)
+125. Activity: The OpenAI Chat Completions API    
+126. Activity: Using Tools And Functions In The OpenAI Chat Completion API     
+127. Activity: The Images (DALL-E) API In OpenAI     
+128. Activity: The Embeddings API In OpenAI: Finding Similarities Between Words     
+129. The Legacy Fine-Tuning API For GPT Models In OpenAI     
+130. Demo: Fine-Tuning Openai's Davinci Model To Simulate Data From Star Trek     
+131. The New Openai Fine-Tuning API; Fine-Tuning GPT-3.5 To Simulate Commander Data!     
+132. Activity: The OpenAI Moderation API    
+133. Activity: The OpenAI Audio API (Speech To Text)     
+
+### Section 14: Retrieval Augment Generation (RAG)
+134. Retrieval Augmented Generation (RAG): How It Works, With Some Examples.     
+135. Demo: Using Retrieval Augmented Generation (Rag) To Simulate Data From Star Trek     
+
+### Section 15: Final Project 
+136. Your Final Project Assignment: Classification    
+137. Final Project Review     
+
+### Section 16: You Made It!
+138. More To Explore     
+139. Don't Forget To Leave A Rating!     
+140. Bonus Lecture     
