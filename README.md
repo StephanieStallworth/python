@@ -174,6 +174,7 @@
 73. BONUS: Cloud Skills for ML & AI
 
 ## [Data Science: Supervised Machine Learning In Python (Udemy)](https://www.udemy.com/course/data-science-supervised-machine-learning-in-python/)
+
 ### Section 1: Introduction and Review
 1. Introduction and Outline    
 2. How to Succeed In This Course    
@@ -931,9 +932,9 @@ Advanced Recommender Systems with Python - Bonus
 14. Importing The Dataset - Step 1: `pandas.read_csv()`  
 15. Importing The Dataset - Step 2: Independent Variables Matrix 
 16. Importing The Dataset - Step 3: Dependent Variable Array 
-17. For Python Learners, Summary Of Object Oriented Programming: Classes & Objects (Coding Exercise 1: Coding Exercise 1: Importing And Preprocessing A Dataset For ML)  
+17. For Python Learners, Summary Of OOP: Classes & Objects (Coding Exercise 1: Coding Exercise 1: Importing And Preprocessing A Dataset For ML)  
 18. Taking Care Of Missing Data - Step 1: `SimpleImputer()` Object 
-19. Taking Care Of Missing Data - Step 2: `fit()` `transform()` (Coding Exercise 2: Coding Exercise 2: Handling Missing Data In A Dataset For ML) 
+19. Taking Care Of Missing Data - Step 2: `fit()` `transform()` (Coding Exercise 2: Coding Exercise 2: Handling Missing Data in Dataset For ML) 
 20. Encoding Categorical Data - Step 1: `sklearn.compose.ColumnTransformer()`  `sklearn.preprocessing.OneHotEncoder()`  
 21. Encoding Categorical Data - Step 2: `fit_transform()` 
 22. Encoding Categorical Data - Step 3: `LabelEncoder()` Object 
@@ -942,7 +943,7 @@ Advanced Recommender Systems with Python - Bonus
 25. Splitting The Dataset Into The Training Set And Test Set - Step 3: `train_test_split()` continued... 
 26. Feature Scaling - Step 1: Feature Scaling Techniques (Standardization, Normalization) 
 27. Feature Scaling - Step 2: `StandardScaler()` Object 
-28. Feature Scaling - Step 3: `X_Train` `fit_transform()
+28. Feature Scaling - Step 3: `X_Train` `fit_transform()`
 29. Feature Scaling  - Step 4: x_test `transform()` only 
 
 ### Section 4: Data Preprocessing in R
@@ -1076,8 +1077,8 @@ Quiz 7: Random Forest Regression Quiz
 135. Preparation Of The Regression Code Templates - Step 2  
 136. Preparation Of The Regression Code Templates - Step 3 
 137. Preparation Of The Regression Code Templates - Step 4 
-138. The Ultimate Demo Of The Powerful Regression Code Templates In Action! - Step 1: Multiple Linear Regression 
-139. The Ultimate Demo Of The Powerful Regression Code Templates In Action! - Step 2: Polynomial Regression, Support Vector Regression, Decision Tree Regression, Random Forest Regression 
+138. The Ultimate Demo Of Powerful Regression Code Templates In Action! - Step 1: Multiple Linear Regression 
+139. The Ultimate Demo Of Powerful Regression Code Templates In Action! - Step 2: Polynomial Regression, SVR, DT Regression, RF Regression 
 140. Conclusion Of Part 2 - Regression  
 
 ### Section 14: Regression Model Selection in R
@@ -1108,7 +1109,7 @@ Quiz 7: Random Forest Regression Quiz
 161. Logistic Regression In Python - Step 7C: Visualizing Test Set Results 
 162. Logistic Regression In Python - Step 7:Visualizing Test Set Results (continued...) 
 163. Logistic Regression In R - Step 1: Data Preprocessing `read.csv` `sample.split()` `scale()`  
-164. Logistic Regression In R - Step 2: Fitting Logistic Regression  to the Training Set `glm()`  ^
+164. Logistic Regression In R - Step 2: Fitting Logistic Regression  to the Training Set `glm()`
 165. Logistic Regression In R - Step 3: Predicting the Test Results `predict()` 
 166. Logistic Regression In R - Step 4: Making the Confusion Matrix with `table()` 
 167. Warning - Update: `ElemStatLearn` Package  
@@ -1117,29 +1118,24 @@ Quiz 7: Random Forest Regression Quiz
 170. Logistic Regression In R - Step 5C: Visualizing Test Set Results 
 171. Logistic Regression In R - Step 5D: Visualizing Test Set Results (continued...) 
 172. R Classification Template  
-173. Machine Learning Regression And Classification Extra  
-Quiz 9: Logistic Regression Quiz  
+173. Machine Learning Regression And Classification Extra (Quiz 9: Logistic Regression Quiz)  
 174. Extra Content: Logistic Regression Practical Case Study 
 
 ### Section 17: K-Nearest Neighbors (KNN)
 175. K-Nearest Neighbor Intuition  
-176. K-NN In Python - Step 1: Intro 
-- [API Reference |scikit-learn.org](https://scikit-learn.org/stable/api/index.html)
-- [sklearn.neighbors.NearestNeighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html#sklearn.neighbors.NearestNeighbors)
-177. K-NN In Python - Step 2: Data Pre-Processing `train_test_split()` `StandardScaler()` `fit_transform()` and Training `KNeighborsClassifier()` `fit()` 
+176. K-NN In Python - Step 1: Intro [API Reference |scikit-learn.org](https://scikit-learn.org/stable/api/index.html) [sklearn.neighbors.NearestNeighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html#sklearn.neighbors.NearestNeighbors)
+177. K-NN In Python - Step 2: Data Pre-Processing `train_test_split()` `StandardScaler()` `fit_transform()` `KNeighborsClassifier()` `fit()` 
 178. K-NN In Python - Step 3: Predictions `predict()` and Visualizing the Results with `matplotlib` 
-179. K-NN In R - Step 1: Data Pre-Processing `factor()` `sample.split()` `scale()`  
-180.K-NN In R - Step 2: Model Training `knn()` and Evaluation with Confusion Matrix `table()`
-181. K-NN In R - Step 3: Visualizing the Training Set & Test Results with `ElemStatLearn` 
-Quiz 10: K-Nearest Neighbor Quiz  
+179. K-NN In R - Step 1: Data Pre-Processing `factor()` `sample.split()` `scale()`    
+180. K-NN In R - Step 2: Model Training `knn()` and Evaluation with Confusion Matrix `table()`
+181. K-NN In R - Step 3: Visualizing the Training Set & Test Results with `ElemStatLearn` (Quiz 10: K-Nearest Neighbor Quiz)  
 
 ### Section 18: Support Vector Machine (SVM)
 182. SVM Intuition  
-183. SVM In Python -  Step 1: Data Preprocessing `train_test_split() ` `StandardScaler()`  `fit_transform()`, Modeling Training `SCV()` `fit()` and Predictions `predict()` 
-185. SVM In Python -  Step 3: Visualization Training & Test Set Results with `matplotlib` 
+183. SVM In Python - Step 1: Data Preprocessing `train_test_split() ` `StandardScaler()`  `fit_transform()`, `SVC()` `fit()` and Predictions `predict()` 
+185. SVM In Python - Step 3: Visualization Training & Test Set Results with `matplotlib` 
 186. SVM In R - Step 1: Data Preprocessing `factor()` `sample.split()` `scale()` 
-187. SVM In R - Step 2: Model Training with  `svm()` from `e1071` package & Visualization with `ElemStatLearn` 
-Quiz 11: SVM Quiz 
+187. SVM In R - Step 2: Model Training with  `svm()` from `e1071` package & Visualization with `ElemStatLearn` (Quiz 11: SVM Quiz) 
 
 ### Section 19: Kernel SVM
 188. Kernel SVM Intuition  
@@ -1151,8 +1147,7 @@ Quiz 11: SVM Quiz
 194. Kernel SVM In Python - Step 2: Model Training `sklearn.svm.SVC()` , Prediction `predict()` , Evaluation `confusion_matrix`,  Visualizing Results with `matplotlib` 
 195. Kernel SVM In R - Step 1: Data Pre-Processing `factor()` `sample.split()` `scale()`  
 196. Kernel SVM In R - Step 2:  Fitting Kernel SVM to the Training Set `svm()`, Prediction `predict()` and Confusion Matrix `table()` 
-197. Kernel SVM In R - Step 3: Visualizing Training and Test Results with `ElemStatLearn` 
-Quiz 12: Kernel SVM Quiz 
+197. Kernel SVM In R - Step 3: Visualizing Training and Test Results with `ElemStatLearn` (Quiz 12: Kernel SVM Quiz) 
 
 ### Section 20: Naïve Bayes
 198. Bayes Theorem   
@@ -1172,8 +1167,7 @@ Quiz 12: Kernel SVM Quiz
 210. Decision Tree Classification In Python -  Step 2: Model Training `DecisionTreeClassifier()` `fit()`, Predicting a New Result `predict()`, Evaluation `confusion_matrix()` `accuracy_score()` and Visualization with `matplotlib
 211. Decision Tree Classification In R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()` and Fitting the Decision Tree Classifier `rpart()`  
 212. Decision Tree Classification In R - Step 2: Prediction `predict()`, Confusion Matrix `table()`, Visualization  with `ElemStatLearn` Library 
-213. Decision Tree Classification In R - Step 3: Plot the Decision Tree `plot()`  `text()` 
-Quiz 14: Decision Tree Classification Quiz  
+213. Decision Tree Classification In R - Step 3: Plot the Decision Tree `plot()`  `text()` (Quiz 14: Decision Tree Classification Quiz)  
 
 ### Section 22: Random Forest Classification
 214. Random Forest Classification Intuition  
@@ -1181,8 +1175,7 @@ Quiz 14: Decision Tree Classification Quiz
 216. Random Forest Classification In Python   Step 2: Training the Random Forest Classification Model `RandomForestClassifier()`  `fit()`, Prediction `predict()` , Evaluation `confusion_matrix()`  `accuracy_score()`, Visualization Training and Test Set Results with `matplotlib` 
 217. Random Forest Classification In R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()`  
 218. Random Forest Classification In R - Step 2: Model Training `randomForest()`, Prediction `predict()`, Evaluation with Confusion Matrix `table()`
-219. Random Forest Classification In R - Step 3: Visualization with `ElemStatLearn` Library 
-Quiz 15: Random Forest Classification Quiz 
+219. Random Forest Classification In R - Step 3: Visualization with `ElemStatLearn` Library (Quiz 15: Random Forest Classification Quiz)
 
 ### Section 23: Classification Model Selection in Python
 220. Make Sure You Have This Model Selection Folder Ready 
@@ -1322,7 +1315,7 @@ Quiz 22: Thompson Sampling Quiz
 336. ANN In Python - Step 2: Data Pre-Processing `LabelEncoder()`  `OneHotEncoder()`  `train_test_split()` `StandardScaler()` 
 337. ANN In Python - Step 3: "Build the Brain" Building the ANN Overview `tf.keras.models.Sequential()` `tf.keras.layers.Dense()` 
 338. ANN In Python - Step 4: "Make the Brain Smart"Training the ANN `compile()`  `fit()` 
-339. ANN In Python - Step 5: "Using the Brain" Making Predictions `predict()` and Evaluating the Model `confusion_matrix()` `accuracy_score() 
+339. ANN In Python - Step 5: "Using the Brain" Making Predictions `predict()` and Evaluating the Model `confusion_matrix()` `accuracy_score()` 
 340. ANN In R - Step 1: Importing the Dataset & Data Preprocessing `as.numeric()` `sample.split()` `scale()`  
 341. ANN In R - Step 2: Fitting ANN to the Training Set `h2o.init()` 
 342. ANN In R - Step 3: Fitting ANN to the Training Set `h2o.deeplearning()` 
