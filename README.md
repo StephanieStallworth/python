@@ -1,4 +1,4 @@
-# Python Course Work
+# Python Coursework
 ## [Automate The Boring Stuff With Python Programming (Udemy)](https://www.udemy.com/course/automate/)
 ### Section 1: Python Basics
 1. Get Python Installed (Quiz 1: Just a check in)    
