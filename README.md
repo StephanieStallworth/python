@@ -1,5 +1,5 @@
 # Python Course Work
-## [Automate The Boring Stuff With Python Programming (Udemy)](https://www.udemy.com/course/automate/learn/lecture/3309062#overview)
+## [Automate The Boring Stuff With Python Programming (Udemy)]([https://www.udemy.com/course/automate/learn/lecture/3309062#overview](https://www.udemy.com/course/automate/)
 ### Section 1: Python Basics
 1. Get Python Installed (Quiz 1: Just a check in)    
 2. Basic Terminology and Using IDLE     
@@ -83,7 +83,7 @@
 50. Screenshots and Image Recognition    
 51. Congratulations! (And next steps...)    
 
-## [Python A-Z: Python For Data Science With Real Exercises! (Udemy)](https://www.udemy.com/course/python-coding/learn/lecture/36862224#overview)
+## [Python A-Z: Python For Data Science With Real Exercises! (Udemy)](https://www.udemy.com/course/python-coding/?couponCode=24T6MT180425G3)
 
 ### Section 1: Welcome To The Course
 1. Welcome Challenge!    
@@ -173,7 +173,7 @@
 72. Huge Congrats for Completing the Challenge!    
 73. BONUS: Cloud Skills for ML & AI
 
-## [Data Science: Supervised Machine Learning In Python (Udemy)](https://www.udemy.com/course/data-science-supervised-machine-learning-in-python/learn/lecture/5642624#overview)
+## [Data Science: Supervised Machine Learning In Python (Udemy)](https://www.udemy.com/course/data-science-supervised-machine-learning-in-python/)
 ### Section 1: Introduction and Review
 1. Introduction and Outline    
 2. How to Succeed In This Course    
@@ -252,7 +252,7 @@
 53. What Is The Appendix?    
 54. Bonus    
 
-## [Cluster Analysis and Unsupervised Machine Learning in Python (Udemy)](https://www.udemy.com/course/cluster-analysis-unsupervised-machine-learning-python/learn/lecture/4966124#overview)   
+## [Cluster Analysis and Unsupervised Machine Learning in Python (Udemy)](https://www.udemy.com/course/cluster-analysis-unsupervised-machine-learning-python/)   
 
 ### Section 1: Introduction to Unsupervised Learning
 1. Introduction    
@@ -327,7 +327,7 @@
 57. Bonus    
 
 
-## [The Python Bible - Everything You Need to Program in Python (Udemy)](https://www.udemy.com/course/the-python-bible/learn/lecture/5421966?start=15#overview)
+## [The Python Bible - Everything You Need to Program in Python (Udemy)](https://www.udemy.com/course/the-python-bible/)
 
 ### Section 1: Course Introduction
 1. Course Structure
@@ -425,7 +425,7 @@
 73. Bonus Lecture (Coding Exercise 11: Goodbye You Beautiful People!)
 74. All Course Source Code    
 
-## [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize (Udemy)](https://www.udemy.com/course/deeplearning/learn/lecture/35733680#overview)
+## [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize (Udemy)](https://www.udemy.com/course/deeplearning/)
 
 ### Section 1: Welcome To The Course!  
 1. Welcome Challenge!    
@@ -691,7 +691,7 @@
 12. Predicting the Results of the Test Set: `predict()`     
 13. Bonus: How To UNLOCK Top Salaries (Live Training)    
 
-## [Python For Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/learn/lecture/5440650#overview) 
+## [Python For Data Science and Machine Learning Bootcamp (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) 
 ### Section 1: Course Introduction 
 1. Introduction to the Course    
 2. Course Help and Welcome    
@@ -909,7 +909,7 @@ Advanced Recommender Systems with Python - Bonus
 ### Section 27: Bonus Section Thank You! 
 165. Bonus Lecture    
 
-## [Python Mega Course: Learning Python in 60 Days, Build 20 Apps (Udemy)](https://www.udemy.com/course/the-python-mega-course/learn/lecture/38366500#overview) 
+## [Python Mega Course: Learning Python in 60 Days, Build 20 Apps (Udemy)](https://www.udemy.com/course/the-python-mega-course/) 
 
 ### Section 1: Module 1 - Python Basics (Day 1-20) 
 1. Welcome To Module 1    
