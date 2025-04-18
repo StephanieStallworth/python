@@ -944,7 +944,7 @@ Advanced Recommender Systems with Python - Bonus
 26. Feature Scaling - Step 1: Feature Scaling Techniques (Standardization, Normalization) 
 27. Feature Scaling - Step 2: `StandardScaler()` Object 
 28. Feature Scaling - Step 3: `X_Train` `fit_transform()`
-29. Feature Scaling  - Step 4: x_test `transform()` only 
+29. Feature Scaling  - Step 4: `x_test` `transform()` only 
 
 ### Section 4: Data Preprocessing R
 30. Getting Started: Datasets  
@@ -1047,14 +1047,13 @@ Advanced Recommender Systems with Python - Bonus
 115. Decision Tree Regression Intuition 
 116. Decision Tree Regression Python - Step 1A: Get the Dataset  
 117. Decision Tree Regression Python - Step 1B: Data Preprocessing `LabelEncoder()` `ColumnTransformer()` `OneHotEncoder()` 
-118. Decision Tree Regression Python - Step 2:  Train Decision Tree: `sklearn.tree.DecisionTreeRegressor()`  `sklearn.tree.DecisionTreeClassifier()` `fit()`  
+118. Decision Tree Regression Python - Step 2: Train `DecisionTreeRegressor()`  `DecisionTreeClassifier()` `fit()`  
 119. Decision Tree Regression Python - Step 3: Predictions `predict()`
 120. Decision Tree Regression Python - Step 4: Visualizing Decision Tree Regression Results with `matplotlib` 
 121. Decision Tree Regression R - Step 1: Data Preprocessing `read.csv` `sample.split()` `scale()`  
 122. Decision Tree Regression R - Step 2: Fitting Decision Tree Regression to the Dataset: `rpart()` and Predictions `predict()` 
-123. Decision Tree Regression R - Step 3: Visualizing Decision Tree Regression Results with `ggplot2` 
-124. Decision Tree Regression R - Step 4: Visualiizing Decision Tree Regression Results with `ggplot2` (High Resolution) 
-Quiz 6: Decision Tree Regression Quiz 
+123. Decision Tree Regression R - Step 3: Visualizing Results with `ggplot2` 
+124. Decision Tree Regression R - Step 4: Visualizing Results with `ggplot2` (High Resolution) (Quiz 6: DT Regression Quiz) 
 
 ### Section 11: Random Forest Regression  
 125. Random Forest Regression Intuition  
@@ -1160,7 +1159,7 @@ Quiz 6: Decision Tree Regression Quiz
 ### Section 21: Decision Tree Classification
 208. Decision Tree Classification Intuition 
 209. Decision Tree Classification Python - Step 1: Data Pre-Processing: `train_test_split()` `StandardScaler()` `fit_transform()` `transform()`   
-210. Decision Tree Classification Python -  Step 2: Model Training `DecisionTreeClassifier()` `fit()` `predict()` `confusion_matrix()` `accuracy_score()` `matplotlib`
+210. Decision Tree Classification Python -  Step 2: `DecisionTreeClassifier()` `fit()` `predict()` `confusion_matrix()` `accuracy_score()` 
 211. Decision Tree Classification R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()` and Fitting DT Classifier `rpart()`  
 212. Decision Tree Classification R - Step 2: Prediction `predict()`, Confusion Matrix `table()`, Visualization  with `ElemStatLearn` Library 
 213. Decision Tree Classification R - Step 3: Plot the Decision Tree `plot()`  `text()` (Quiz 14: Decision Tree Classification Quiz)  
@@ -1168,7 +1167,7 @@ Quiz 6: Decision Tree Regression Quiz
 ### Section 22: Random Forest Classification
 214. Random Forest Classification Intuition  
 215. Random Forest Classification Python - Step 1: Data Pre-Processing `train_test_split()`  `StandardScaler()`  `fit_transform()`  `transform()`  
-216. Random Forest Classification Python   Step 2: Training the RF Classification Model `RandomForestClassifier()`  `fit()` `predict()`  `confusion_matrix()`  `accuracy_score()` `matplotlib` 
+216. Random Forest Classification Python - Step 2: `RandomForestClassifier()`  `fit()` `predict()`  `confusion_matrix()`  `accuracy_score()`
 217. Random Forest Classification R - Step 1: Data Pre-Processing `factor()`  `sample.split()`  `scale()`  
 218. Random Forest Classification R - Step 2: Model Training `randomForest()`, Prediction `predict()`, Evaluation with Confusion Matrix `table()`
 219. Random Forest Classification R - Step 3: Visualization with `ElemStatLearn` Library (Quiz 15: Random Forest Classification Quiz)
@@ -1176,10 +1175,10 @@ Quiz 6: Decision Tree Regression Quiz
 ### Section 23: Classification Model Selection Python
 220. Make Sure You Have This Model Selection Folder Ready 
 221. Confusion Matrix & Accuracy Ratios  
-222. Ultimate Demo Of The Powerful Classification Code Templates In Action - Step 1: Get the Dataset  
-223. Ultimate Demo Of The Powerful Classification Code Templates In Action - Step 2: Templates Logistic Regression, K-NN, SVM, Kernel SVM, Naïve Bayes, DT Classification, RF
-224. Ultimate Demo Of The Powerful Classification Code Templates In Action - Step 3: Google Colab 
-225. Ultimate Demo Of The Powerful Classification Code Templates In Action - Step 4: Decision Tree Slightley Beats Kernel SVM
+222. Demo Of The Classification Code Templates In Action - Step 1: Get the Dataset  
+223. Demo Of The Classification Code Templates In Action - Step 2: Templates Logistic Regression, KNN, SVM, Kernel SVM, Naïve Bayes, DT, RF
+224. Demo Of The Classification Code Templates In Action - Step 3: Google Colab 
+225. Demo Of The Classification Code Templates In Action - Step 4: Decision Tree Slightley Beats Kernel SVM
 
 ### Section 24: Evaluating Classification Models Performance
 226. Type I and Type II Errors  
@@ -1211,19 +1210,19 @@ Quiz 6: Decision Tree Regression Quiz
 248. K-Means Clustering R - Step 2: Fitting K-Means to Data Set, Visualizing Clusters, Cluster Analysis (Quiz 17: K-Means Clustering Quiz) 
 
 ### Section 27: Hierarchical Clustering
-249. Hierarchical Clustering Intuition  
-250. Hierarchical Clustering How Dendrograms Work 
-253. Hierarchical Clustering Python  - Step 2A: Dendrogram To Find Optimal Number of Clusters `scipy.cluster.hierarchy`  `scipy.cluster.hierarchy.linkage()` 
-254. Hierarchical Clustering Python - Step 2B: Using the Dendrogram to Find the Optimal Number of Clusters 
-255. Hierarchical Clustering Python - Step 2C: Using the Dendrogram to Find the Optimal Number of Clusters (continued...) 
-256. Hierarchical Clustering Python - Step 3A: Training the HC model on the dataset `sklearn.cluster.AgglomerativeClustering()` `fit_predict()` 
-257. Hierarchical Clustering Python - Step 3B: Visualizing the Clusters 
-258. Hierarchical Clustering R - Step 1: Importing the Dataset  
-259. Hierarchical Clustering R - Step 2: Using the Dendrogram to Find the Optimal Number of Clusters `hclust()` `plot()` 
-260. Hierarchical Clustering R - Step 3: Fitting Hierarchical Clustering to the Dataset `cutree()` 
-261. Hierarchical Clustering R - Step 4: Visualizing the Clusters `clusplot()` 
-262. Hierarchical Clustering R - Step 5: Cluster Analysis (Quiz 18: Hierarchical Clustering Quiz) 
-263. Conclusion Of Part 4 - Clustering: K-Means and Hierarchical Clustering Pros & Cons  
+249. Hierarchical Clustering Intuition    
+250. Hierarchical Clustering How Dendrograms Work  
+251. Hierarchical Clustering Python - Step 2A: Dendrogram Optimal Clusters `scipy.cluster.hierarchy` `scipy.cluster.hierarchy.linkage()`  
+252. Hierarchical Clustering Python - Step 2B: Using the Dendrogram to Find the Optimal Number of Clusters   
+253. Hierarchical Clustering Python - Step 2C: Using the Dendrogram to Find the Optimal Number of Clusters (continued...)  
+254. Hierarchical Clustering Python - Step 3A: Training HC model `sklearn.cluster.AgglomerativeClustering()` `fit_predict()`    
+255. Hierarchical Clustering Python - Step 3B: Visualizing the Clusters   
+256. Hierarchical Clustering R - Step 1: Importing the Dataset   
+257. Hierarchical Clustering R - Step 2: Using the Dendrogram to Find the Optimal Number of Clusters `hclust()` `plot()`  
+258. Hierarchical Clustering R - Step 3: Fitting Hierarchical Clustering to the Dataset `cutree()`   
+259. Hierarchical Clustering R - Step 4: Visualizing the Clusters `clusplot()`    
+260. Hierarchical Clustering R - Step 5: Cluster Analysis (Quiz 18: Hierarchical Clustering Quiz)    
+261. Conclusion Of Part 4 - Clustering: K-Means and Hierarchical Clustering Pros & Cons 
 
 ### Section 28: Part 5 - Association Rule Learning
 264. Welcome To Part 5 - Association Rule Learning 
@@ -1237,7 +1236,7 @@ Quiz 6: Decision Tree Regression Quiz
 272. Apriori R - Step 3: Visualizing the Results (Quiz 19: Apriori Quiz)  
 273. Eclat Intuition 
 274. Eclat Python: Data Pre-Processing, Training the Eclat Model `apyori.apriori()`, Visualizing the Results  
-275. Eclat R: Data Pre-Processing `itemFrequencyPlot()` and Training the Eclat on the Dataset `eclat()` and Visualizing the Results `inspect()` (Quiz 20: Eclat Quiz)  
+275. Eclat R: Data Pre-Processing `itemFrequencyPlot()` and Training the Eclat `eclat()` and Visualization `inspect()` (Quiz 20: Eclat Quiz)  
 
 ### Section 31: Part 6 - Reinforcement Learning 
 276. Welcome To Part 6 - Reinforcement Learning 
@@ -1253,7 +1252,7 @@ Quiz 6: Decision Tree Regression Quiz
 285. Upper Confidence Bound Python - Step 7: Visualizing the Results with `matplotlib` 
 286. Upper Confidence Bound R - Step 1: Overview  
 287. Upper Confidence Bound R - Step 2: Implementing UCB   
-288. Upper Confidence Bound R - Step 3: Choosing the Advertisement with the Maximum UCB "Huge Value Trick" (Quiz 21: Upper Confidence Bound Quiz) 
+288. Upper Confidence Bound R - Step 3: Choosing the Advertisement with the Maximum UCB "Huge Value Trick" (Quiz 21: UCB Quiz) 
 
 ### Section 33: Thompson Sampling
 290. Thompson Sampling Intuition  
@@ -1264,8 +1263,7 @@ Quiz 6: Decision Tree Regression Quiz
 295. Thompson Sampling Python - Step 4: Visualizing the Results 
 296. Additional Resource For This Section  
 297. Thompson Sampling R - Step 1: Implementing Thompson Sampling  
-298. Thompson Sampling R - Step 2: Visualizing the Results 
-Quiz 22: Thompson Sampling Quiz  
+298. Thompson Sampling R - Step 2: Visualizing the Results (Quiz 22: Thompson Sampling Quiz)  
 
 ### Section 34: Part 7 - Natural Language Processing
 299. Welcome To Part 7 - Natural Language Processing  
@@ -1276,8 +1274,8 @@ Quiz 22: Thompson Sampling Quiz
 305. Natural Language Processing Python - Step 2: Importing the Libraries 
 306. Natural Language Processing Python - Step 3: Data Cleaning `re.sub()` 
 307. Natural Language Processing Python - Step 4: Data Cleaning `nltk.corpus.stopwords()` `nltk.stem.porter.PortStemmer()` 
-308. Natural Language Processing Python - Step 5: Bag of Words Model `sklearn.feature_extraction.text.CountVectorizer()`  `fit_transform()` 
-309. Natural Language Processing Python - Step 6: Training Naive Bayes Model `sklearn.naive_bayes.GaussianNB()` `predict()` `confusion_matrix()` `accuracy_score()` 
+308. Natural Language Processing Python - Step 5: Bag of Words Model `feature_extraction.text.CountVectorizer()``fit_transform()` 
+309. Natural Language Processing Python - Step 6: Naive Bayes `GaussianNB()` `predict()` `confusion_matrix()` `accuracy_score()` 
 310. Natural Language Processing Python - Extra  
 311. Homework Challenge  
 312. Natural Language Processing R - Step 1: Importing the Dataset `read.delim()`  
@@ -1341,7 +1339,7 @@ Quiz 22: Thompson Sampling Quiz
 362. Welcome To Part 9 - Dimensionality Reduction  
 363. Principal Component Analysis (PCA) Intuition  
 364. PCA Python - Step 1: Overview  
-365. PCA Python - Step 2: Training the Logistic Regression Model `LogisticRegression()` `fit()`, Predictions `predict()`, Making the Confusion Matrix `confusion_matrix()` `accuracy_score()`, Visualization with `matplotlib` 
+365. PCA Python - Step 2: Training `LogisticRegression()` `fit()` `predict()` `confusion_matrix()` `accuracy_score()` `matplotlib` 
 366. PCA R - Step 1: Data Pre-Processing Data-Preprocessing `sample.split()` `scale()`  
 367. PCA R - Step 2: Applying the PCA `preProcess()` `predict()` 
 368. PCA R - Step 3: Fitting SVM `svm()`, Predicting `predict()`, Confusion matrix `table()`, Visualization `ElemStatLearn` (Quiz 27: PCA Quiz)  
@@ -1375,9 +1373,7 @@ Quiz 22: Thompson Sampling Quiz
 
 ### Section 46: Congratulations! Don't Forget Your Prize
 385. Huge Congrats For Completing The Challenge! 
-386. Bonus: How To Unlock Top Salaries (Live Training)  
-
-
+386. Bonus: How To Unlock Top Salaries (Live Training)
 
 ## [Python Mega Course: Learning Python in 60 Days, Build 20 Apps (Udemy)](https://www.udemy.com/course/the-python-mega-course/) 
 
@@ -1543,7 +1539,7 @@ Quiz 22: Thompson Sampling Quiz
 137. Code Experiments     
 138. Bonus Examples    
 139. Bug Fixing Exercises    
-140. Programming Tool/Concept Of The Day: What Is Version Control And Git?  - Git     
+140. Programming Tool/Concept Of The Day: What Is Version Control And Git? - Git     
 141. FAQ     
 142. Cheat Sheet    
 
