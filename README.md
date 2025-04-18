@@ -9,16 +9,14 @@
 2. Installing Python On Windows    
 3. Installing Python On Mac    
 4. Installing Python On Linux    
-5. Meeting IDLE | Take a Tour of the Python Interactive Developer Environment (IDE)     
-6. The Secret of Top Programmers...    
+5. Meeting IDLE: Take a Tour of the Python Interactive Developer Environment (IDE)     
+6. The Secret of Top Programmers   
 7. A Quick Note    
 
 ### Section 3: Simple Little Boxes - Variables in Python
 8. Section Overview    
 9. What is A Variable?    
-10. Updating Our Script    
-Quiz 1: Variables Quiz    
-Coding Exercise 1: Creating Variables    
+10. Updating Our Script (Quiz 1: Variables Quiz, Coding Exercise 1: Creating Variables)    
 11. Section Review    
 
 ### Section 4: The 123s - Numbers In Python
@@ -28,7 +26,7 @@ Coding Exercise 1: Creating Variables
 15. Project 1: Crafting A Health Potion - Part 1     
 16. Project 2: Crafting A Health Potion - Part 2    
 17. Fun With The Python Math Module (Optional)     
-18. Section Review  (Quiz 2: Python Numbers Quiz, Coding Exercise 2: Basic Algebra Coding Challenge, Coding Exercise 3: Overwriting Variables)    
+18. Section Review  (Quiz 2: Python Numbers, Coding Exercise 2: Basic Algebra Coding Challenge, Coding Exercise 3: Overwriting Variables)    
 
 ### Section 5: The ABCs - How To Use Strings To Hand Text In Python
 19. Section Overview    
@@ -36,7 +34,7 @@ Coding Exercise 1: Creating Variables
 21. Project 2: Hello You! Part 1 - Project Overview    
 22. Project 2: Hello You! Part 2 - Collecting Data    
 23. Project 2: Hello You! Part 3 - String Formatting (Coding Exercise 6: How Old Are You?, Coding Exercise 7: Tell Us About Yourself!)    
-24. Cool String Methods -  Part 1     
+24. Cool String Methods - Part 1     
 25. Cool String Methods - Part 2     
 26. Project 3: Email Slicer - Part 1 - What Are Slices?     
 27. Project 3: Email Slicer - Part 2 - Automated Slices (Quiz 3: Slices Quiz, Ccoding Exercise 8: Slicer Exercise)    
@@ -46,7 +44,7 @@ Coding Exercise 1: Creating Variables
 ### Section 6: If This, Then That: Logic and Conditional Flow in Python
 30. Section Overview    
 31. Booleans & Comparison Operators (Quiz 4: Comparison Operators Quiz)    
-32. if Statements (Coding Exercise 9: If Statements Challenge)    
+32. If Statements (Coding Exercise 9: If Statements Challenge)    
 33. Python Logical Operators - Part 1: Not, And    
 34. Python Logical Operators - Part 2: OR Operator (Quiz 5: Logical Operators Quiz)    
 35. Section Review     
@@ -214,8 +212,7 @@ Coding Exercise 1: Creating Variables
 21. NumPy and Arrays in Python     
 22. Slicing Arrays     
 23. Section Recap    
-24. Homework: Financial Statement Analysis    
-Quiz 2: Fundamentals of Python
+24. Homework: Financial Statement Analysis (Quiz 2: Fundamentals of Python)
 
 ### Section 4: Matrices
 25. Project Brief: Basketball Trends    
@@ -238,7 +235,7 @@ Quiz 2: Fundamentals of Python
 40. Subsetting Dataframes in Pandas     
 41. Basic Operations With a Data Frame    
 42. Filtering a Data Frame     
-43. Using .at() and .iat() (advanced tutorial)     
+43. Using `.at()` and `.iat()` (advanced tutorial)     
 44. Introduction to Seaborn     
 46. Keyword Arguments in Python (Advanced Tutorial, Quiz 4: Data Frames)
 47. Section Recap
@@ -250,7 +247,7 @@ Quiz 2: Fundamentals of Python
 51. Histograms     
 52. Stacked Histograms in Python     
 53. Creating a KDE Plot    
-54. Working With Subplots()     
+54. Working With `subplots()`     
 55. Violin Plots vs Boxplots     
 56. Creating a Facet Grid     
 57. Coordinates and Diagonals    
@@ -272,8 +269,8 @@ Quiz 2: Fundamentals of Python
 71. Thank You Video  
 
 ### Section 8: Congratulations! Don't Forget Your Prize 
-72. Huge Congrats for completing the challenge!    
-73. BONUS: Cloud Skills for ML & AI (COUPON inside)    
+72. Huge Congrats for Completing the Challenge!    
+73. BONUS: Cloud Skills for ML & AI
 
 ## [Cluster Analysis and Unsupervised Machine Learning in Python (Udemy)](https://www.udemy.com/course/cluster-analysis-unsupervised-machine-learning-python/learn/lecture/4966124#overview)   
 
@@ -646,7 +643,7 @@ Advanced Recommender Systems with Python - Bonus
 ### Section 27: Bonus Section Thank You! 
 165. Bonus Lecture    
 
-## [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize(Udemy)](https://www.udemy.com/course/deeplearning/learn/lecture/35733680#overview)
+## [Deep Learning A-Z 2024: Neural Networks, AI & ChatGPT Prize (Udemy)](https://www.udemy.com/course/deeplearning/learn/lecture/35733680#overview)
 
 ### Section 1: Welcome To The Course!  
 1. Welcome Challenge!    
@@ -1083,7 +1080,7 @@ Advanced Recommender Systems with Python - Bonus
 139. Don't Forget To Leave A Rating!     
 140. Bonus Lecture     
 
-## [PYTHON MEGA COURSE: LEARNING PTHON IN 60 DAYS, BUILD 20 APPS (UDEMY)](https://www.udemy.com/course/the-python-mega-course/learn/lecture/38366500#overview) 
+## [Python Mega Course: Learning Python in 60 Days, Build 20 Apps (Udemy)](https://www.udemy.com/course/the-python-mega-course/learn/lecture/38366500#overview) 
 
 ### Section 1: Module 1 - Python Basics (Day 1-20) 
 1. Welcome To Module 1    
@@ -1171,7 +1168,7 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 8: Day 7 App 1 - Build a To-Do App with Python (List Comprehension and Comments) 
 73. Recap Of Yesterday     
-74. Improving The Program Output  - List Comprehensions     
+74. Improving The Program Output - List Comprehensions     
 75. Code Experiments     
 76. Bonus Example     
 77. Bug Fixing Exercises    
@@ -1181,8 +1178,8 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 9: Day 8 App 1 - Build a To-Do App with Python (With Context Manager)
 81. Recap Of Yesterday    
-82. Optimising The Code  - With Context Manager     
-83. Editing And Completing Todo Items  - With Context Manager     
+82. Optimising The Code - With Context Manager     
+83. Editing And Completing Todo Items - With Context Manager     
 84. Code Experiments     
 85. Bonus Example     
 86. Bug Fixing Exercises     
@@ -1191,8 +1188,8 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 10: Day 9 App 1 - Build a To-Do App with Python (If-Elif-Else and Dictionaries)
 90. Recap Of Yesterday    
-91. Improving The "Add" Feature  - If Conditionals  - Slicing     
-92. Optimising The Program  - Elif  - Else     
+91. Improving The "Add" Feature - If Conditionals - Slicing     
+92. Optimising The Program - Elif - Else     
 93. Code Experiments    
 94. Bonus Example    
 95. Bug Fixing Exercises    
@@ -1212,7 +1209,7 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 12: Day 11 App 1 - Build a To-Do App with Python (Using Custom Functions) 
 108. Recap Of Yesterday    
-109. Avoiding Repetitive Code  - Custom Functions     
+109. Avoiding Repetitive Code - Custom Functions     
 110. Code Experiments    
 111. Bonus Example    
 112. Bug Fixing Exercises    
@@ -1222,8 +1219,8 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 13: Day 12 App 1 - Build a To-Do App with Python (Multiple Arguments)
 116. Recap Of Yesterday    
-117. Optimizing The Code  - Function Arguments    
-118. Optimizing The Code Further  - Multiple Arguments     
+117. Optimizing The Code - Function Arguments    
+118. Optimizing The Code Further - Multiple Arguments     
 119. Code Experiments     
 120. Bonus Example     
 122. Programming Tool/Concept Of The Day: The Learn To Program Curve     
@@ -1232,8 +1229,8 @@ Advanced Recommender Systems with Python - Bonus
 
 #### Section 14: Day 13 App 1 - Build a To-Do App with Python (Utilizing Default Args)
 125. Recap Of Yesterday    
-126. Optimizing The Code  - Default Arguments     
-127. Documenting The Code  - Doc Strings     
+126. Optimizing The Code - Default Arguments     
+127. Documenting The Code - Doc Strings     
 128. Code Experiments     
 129. Bonus Example     
 130. Bug Fixing Exercises    
