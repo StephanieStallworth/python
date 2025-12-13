@@ -371,7 +371,7 @@ Passing `re.VERBOSE` lets you add whitespace and comments to the regex string pa
 ### 49. Controlling the Keyboard from Python
 - PyAutoGUI's virtual key presses will go the window the currently has focus.  
 - `typewrite()` can be passed a string of characters to type. It also has an "interval" keyword argument.  
--= Passing a list of strings to `typewrite()` lets you use hard-to-type keyboard keys, like `shift` or `f1`.  
+- Passing a list of strings to `typewrite()` lets you use hard-to-type keyboard keys, like `shift` or `f1`.  
 - These keyboard key strings are in the `pyautogui.KEYBOARD_KEYS` list.  
 - `pyautogui.press()` will press a single key.  
 - `pyautogui.hotkey()` can be used for keyboard shortcuts, like `Ctrl-O`.  
@@ -384,12 +384,3 @@ Passing `re.VERBOSE` lets you add whitespace and comments to the regex string pa
 - Combining the keyboard/mouse/screenshot functions lets you make awesome stuff!  
 
 ### 51. Congratulations! (And Next Steps...)
-
-
-
-
-
- 
-
-
-
