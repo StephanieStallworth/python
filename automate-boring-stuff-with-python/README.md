@@ -166,7 +166,6 @@
     ```
     @py C:\Users\Al\MyPytonScripts\hello.py %*
     @pause
-
     ```
 - You'll need to add the `MyPythonScripts` folder to the `PATH` environment variable first.  
 - Command-line arguments can be read in the `sys.argv` list. (Import the `sys` module first.)  
@@ -391,4 +390,5 @@ Passing `re.VERBOSE` lets you add whitespace and comments to the regex string pa
 
 
  
+
 
