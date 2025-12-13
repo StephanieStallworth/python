@@ -3,7 +3,7 @@
 ## Section 1 Python Basics   
 ### 1. Get Python Installed  
 - Explain what you are trying to do, not just what you did.  
-- If you get an error message, specify the point at which the error happens. (Including the line number.)  
+- If you get an error message, specify the point at which the error happens (including the line number).  
 - Copy and paste the entire error message and your code to a pastebin site like pastebin.com or gist.github.com.  
 - Explain what you've already tried to do to solve your problem.  
 - List the version of Python you're using.  
@@ -390,5 +390,6 @@ Passing `re.VERBOSE` lets you add whitespace and comments to the regex string pa
 
 
  
+
 
 
